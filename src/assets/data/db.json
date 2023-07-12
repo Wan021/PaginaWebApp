@@ -1,0 +1,1409 @@
+{
+  "product": [
+    {
+      "ProductName": "Cámara SONY Cyber-shot DSC-RX100 VI",
+      "categoryID": "1",
+      "descriptions": "•\t24-200 mm (equivalente a 35 mm) •\tDisparos continuos ISO 12800 y 24 fps •\tSistema Fast Hybrid AF con 315 puntos •\tZEISS Vario-Sonnar T * f / 2.8-4.5 Lente •\t20.1MP 1 \"Exmor RS BSI CMOS Sensor •\tEVF emergente OLED de 0.39 \"2.36m-Dot •\tVídeo UHD 4K30p con HLG y S-Log3 Gammas •\tModo HFR para vídeo Full HD de hasta 960 fps •\tPantalla táctil inclinable de 3.0 \"921.6k-Dot 180 °   \fEspecificaciones \tMarca\rSONY \tFormato del Sensor\rCMOS \tConectividad\rWIFI \tTipo de Batería\rRecargable \tClase\rSemiprofesional \tModelo\rSONY \tCyber-shot \rDSC-RX100 VI \tResolución\r20 Megapixeles \tTamaño LCD\r3 pulgadas \tResolución de Video\rFull HD 1080p \tCatálogo Fabricante\r80817630 \tNúmero de Artículo\rSO06131\r",
+      "price": 654,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto2/mejorado/Camara 2_1_edited.png",
+      "rating": 3,
+      "vendor_name": "Panasonic",
+      "id": 1,
+      "distribuidor": "Greenpoint Solar"
+    },
+    {
+      "ProductName": "Cámara Canon G7X Mark III",
+      "categoryID": "1",
+      "descriptions": "Descripción del producto 1 •\tCámara digital Canon PowerShot G7 X Mark III (negra) •\tPaquete de baterías de iones de litio Canon NB-13L (3.6V, 1250mAh •\tCanon CB-2LH Cargador de batería para baterías de iones de litio NB-13 •\tCorrea de muñeca WS-DC12  Especificaciones Marca\tCANON Tamaño de Sensor\t1\" Conectividad\tWIFI & BLUETOOTH Tipo de Batería\tRecargable Modelo\tCanon G7X Mark III Resolución\t20 Megapixeles Resolución de Video\t4K Clase\tCompacta Catálogo Fabricante\t3637C001AA Número de Artículo\tCA06517",
+      "price": 1143,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto1/mejorado/Camara1_1.png",
+      "rating": 4,
+      "vendor_name": "Canon",
+      "id": 2,
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Cámara PANASONIC DMC-G5 Negra",
+      "categoryID": "1",
+      "descriptions": "•\tVenus Engine •\tMicro cuatro tercios •\tSensor Live MOS 16.05MP •\tFull Video HD de 1080p a 60 fps •\tEstabilización de imagen óptica •\t14-42mm objetivo zoom (35 mm equiv: 28-84mm) •\tSistema de enfoque automático Velocidad de la Luz •\t3.0 \"920k-Punto de inclinación de la pantalla táctil LCD  Especificaciones Marca\tPANASONIC Tamaño de Sensor\tMicro 4/3 Conectividad\tVia Cables Tipo de Batería\tRecargable Modelo\tPANASONIC DMC-G5K Negra Resolución\t16 Megapixeles Tamaño LCD\t3 pulgadas Resolución de Video\tFull HD 1080p Clase\tSemiprofesional Catálogo Fabricante\tDMC-G5KPP-K Número de Artículo\tPA0610",
+      "price": 677,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto3/mejorado/Camara_3.png",
+      "rating": 3,
+      "vendor_name": "Panasonic",
+      "id": 3,
+      "distribuidor": "eTienda"
+    },
+    {
+      "id": 4,
+      "ProductName": "Videocámara SONY PXW-Z150",
+      "categoryID": "1",
+      "descriptions": "Preparado para cualquier situación de grabación, el camcorder profesional de mano PXW-Z150 de Sony ofrece una increíble calidad de imagen 4K, flujo de trabajo HDR inmediato, cámara lenta Full HD con alta frecuencia de cuadro (HFR) de 120 fps y conexión a red avanzada integrada para transmisiones en directo y flujos de trabajo inalámbricos. •\tHD hasta 120 fps •\tUHD 4K (3840 x 2160) hasta 30p •\tFunción de movimiento lento y rápido •\t2 x entradas de audio XLR de 3 pines •\tUn solo sensor CMOS Exmor RS de 1\" •\tLente G de Sony con zoom óptico de 12x •\tXAVC, AVC / H.264, AVCHD 2.0, MPEG-4 •\tDiscreto Enfoque Manual, Zoom, Anillos Iris •\t18 / 24x Clear Image Zoom / 48x Zoom Digital •\tDos ranuras para tarjetas de memoria SD, Wi-Fi  Especificaciones Modelo\tSONY PXW-Z150 Marca\tSONY Resolución de Video\t4K Conectividad\tWIFI & NFC Resolución\t14 Megapixeles Tipo de Batería\tRecargable WiFi\tSí Clase\tProfesional Tamaño LCD\t3.5 pulgadas Catálogo Fabricante\t84353332 Número de Artículo\tSO0595",
+      "price": 12249,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto4/mejorado/Camaravideo_4.png",
+      "rating": 5,
+      "vendor_name": "Sony",
+      "distribuidor": "eTienda"
+    },
+    {
+      "id": 5,
+      "ProductName": "Videocámara Canon Vixia GX10",
+      "categoryID": "1",
+      "descriptions": "•\t2 Canales de Audio •\tDual Pixel CMOS AF •\tPrioridad de altas luces •\tBatería de gran duración •\tEstabilizador Optico de 5 ejes •\tAmplio rango dinámico (800%) •\tFiltros de densidad neutra de 3 pasos •\tCompatible con tarjeta de memoria SD •\tSensor de 1” y Procesador dual Digic DV6 •\t4K a 60p y Full HD a 120p en formato MP4 •\tLente Angular 25.5mm y 15X Zoom Óptico  Especificaciones Modelo\tCanon Vixia GX10 Marca\tCANON Conectividad\tWIFI Resolución de Video\t4K Resolución\t13 Megapixeles Clase\tProfesional Tipo de Batería\tRecargable Tamaño LCD\t3.5 pulgadas Tamaño de Sensor\t1\" Catálogo Fabricante\t2214C002AA Número de Artículo\tCA0596",
+      "price": 5674,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto5/mejorado/Camaravideo_5.png",
+      "rating": 3,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 6,
+      "ProductName": "Videocámara PANASONIC AG-UX90P8",
+      "categoryID": "1",
+      "descriptions": "•\tSensor tipo CMO\tS de 1.0 \" •\tTiro nocturno por infrarrojos •\tRelé y grabación simultánea •\tFunción de corrección de color de 16 ejes •\tGrabación de doble codificador UHD / FHD •\t3 anillos manuales del control de la lente de x •\tUHD 29,97 / 23,98 / FHD 59,94p / 29,97p / 23,98p •\tFHD Velocidad de fotogramas variable hasta 60 FPS •\tZoom óptico de 8,8 a 132 mm con zoom óptico de 15x con OIS  Especificaciones Modelo\tPANASONIC AG-UX90P8 Marca\tPANASONIC WiFi\tNo Resolución\t8 Megapixeles Clase\tProfesional Tipo de Batería\tRecargable Tamaño de Sensor\t1\" Resolución de Video\t4K Tamaño LCD\t3 pulgadas Catálogo Fabricante\tAG-UX90P8 Número de Artículo\tPA0532",
+      "price": 9546,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto6/mejorado/Camaravideo_6.png",
+      "rating": 4,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 7,
+      "ProductName": "Videocámara PANASONIC HC-VX980 4K",
+      "categoryID": "1",
+      "descriptions": "•\tTipo: Cámaras de video •\tMegapíxeles: 4K: 8.29 megapixeles [16:9], Full-HD: 6.10 megapixeles [16:9] •\tTamaño de la pantalla: 3 pulgadas •\tVelocidad del obturador: No aplica •\tFormatos de imagen: JPEG/XAVCX/MP4 •\tSensibilidad ISO: No aplica •\tProfundidad: 6.5cm •\tPeso: 0.25kg •\tZoom digital: 60x / 1500x •\tZoom óptico: 20X •\tDistancia focal: 85 mm  Especificaciones Modelo\tPANASONIC HC-VX980 4K Marca\tPANASONIC Clase\tCompacta Tipo de Batería\tRecargable Resolución de Video\t4K Tamaño LCD\t3 pulgadas WiFi\tNo A Prueba de Agua\tNo Fuente de energía\tBaterías Catálogo Fabricante\tHC-VX980PU-K Número de Artículo\tPA0528",
+      "price": 943,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto7/mejorado/Camaravideo_7.png",
+      "rating": 3,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 8,
+      "ProductName": "Cámara SONY ALPHA A7C Cuerpo",
+      "categoryID": "1",
+      "descriptions": "•\tProcesador de imágenes BIONZ X •\tSistema AF híbrido de 693 puntos •\tVídeo UHD 4K30p con Gammas HLG y S-Log3 •\tSensor BSI Exmor R de fotograma completo de 24.2MP  Especificaciones Marca\tSONY Modelo\tSONY ALPHA A7C Cuerpo Conectividad\tWIFI & BLUETOOTH Tipo de Batería\tRecargable Resolución\t24 Megapixeles Resolución de Video\t4K Tamaño LCD\t3 pulgadas Clase\tProfesional Almacenamiento\tSD, SDHC, SDXC Catálogo Fabricante\t32852050 Número de Artículo\tSO06143",
+      "price": 1563,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto8/mejorado/Camara_8.png",
+      "rating": 5,
+      "vendor_name": "Sony",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 9,
+      "ProductName": "Cámara FUJI X-T4 Plata con Lente XF 18-55mm",
+      "categoryID": "1",
+      "descriptions": "•\tProcesador de imágenes X-Processor 4 •\tDCI / UHD 4K a 60 fps, Full HD a 240 fps •\tSensor CMOS 4 APS-C X-Trans BSI de 26.1MP •\tEstabilización de imagen en el cuerpo de 5 ejes   Marca\tFUJIFILM Modelo\tX-T4 Tamaño de Sensor\tAPS-C \t Formato del Sensor\tCMOS Conectividad\tWIFI Tipo de Batería\tRecargable Resolución\t26 Megapixeles Resolución de Video\t4K Catálogo Fabricante\t351021024 Número de Artículo\tFU06112",
+      "price": 874,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto9/mejorado/Camara_9.png",
+      "rating": 4,
+      "vendor_name": "Fujifilm",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 10,
+      "ProductName": "Cámara FUJIFILM X-H1 Cuerpo Negra con Empuñadura",
+      "categoryID": "1",
+      "descriptions": "•\tX-Processor Pro Engine •\tPantalla superior Sub-LCD de 1.28 \" •\tVisor electrónico de 0.75x 3.69m-dot •\tVideo interno DCI 4K y F-Log Gamma •\t24.3MP APS-C X-Trans CMOS III Sensor •\tEstabilización de imagen en el cuerpo de 5 ejes •\tSistema de AF híbrido inteligente de 325 puntos •\tCuerpo sellado por el clima; 2 ranuras SD UHS-II •\t1080p a 120 fps; Modo de reducción de parpadeo •\tPantalla táctil LCD inclinable de 3 vías y 3 \"1.04m-Dot  Especificaciones Marca\tFUJIFILM Modelo\tFUJIFILM X-H1 Cuerpo Negra con Empuñadura Tipo de Batería\tRecargable Conectividad\tWIFI Tipo de Batería\tRecargable Resolución\t24 Megapixeles Tamaño LCD\t3 pulgadas Resolución de Video\tFull HD 1080p Clase\tSemiprofesional Número de Artículo\tFU0695 Catálogo Fabricante\t351021040",
+      "price": 1921,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto10/mejorado/Camara_10.png",
+      "rating": 4,
+      "vendor_name": "Fujifilm",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 11,
+      "ProductName": "Cámara NIKON COOLPIX P1000",
+      "categoryID": "1",
+      "descriptions": "•\tControles manuales completos y modo de disparo automático sencillo •\tGrabación de vÍdeo en 4K Ultra HD con salida HDMI, sonido estéreo y zapata para accesorio •\tIncreíble estabilización de imagen con Detección Doble y gran capacidad en condiciones de poca luz •\tModalidades de disparo RAW (NRW), de intervalos y Superlapse, además de asombrosos modos creativos •\tEl zoom óptico de 3000 mm es el lente con zoom más poderoso que jamás se ha creado para una cámara Nikon COOLPIX  Especificaciones Marca\tNIKON Modelo\tNIKON COOLPIX P1000 Resolución de Video\t4K Conectividad\tWIFI Tipo de Batería\tRecargable Resolución\t16 Megapixeles Formato del Sensor\tCMOS Tamaño LCD\t3.2 pulgadas Clase\tCompacta Número de Artículo\tNK06133 Catálogo Fabricante\tVQA060UA",
+      "price": 9213,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto11/mejorado/Camara_12.png",
+      "rating": 5,
+      "vendor_name": "Nikon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 12,
+      "ProductName": "Videocámara SONY PXW-Z90V",
+      "categoryID": "1",
+      "descriptions": "•\tGrabación XAVC HD / QFHD •\tUHD 4K (3840 x 2160) hasta 30p •\tSensor CMOS Exmor RS único de 1\" •\t4K HDR con Hybrid Log-Gamma (HLG) •\tGraba MPEG-2 HD con licencia opcional •\tOpciones de imágenes S-Log3 / S-Gamut3 •\tZoom de imagen clara Zeiss 12x óptico / 18x •\tEnfoque automático con detección de fase (AF) •\tSalida 3G-SDI, transmisión en vivo de 2.4 / 5 GHz •\t2 ranuras para tarjetas SD, modos de relé y simultáneo  Especificaciones Marca\tSONY Modelo\tPXW-Z90V Resolución de Video\t4K Conectividad\tWIFI & NFC Resolución\t14 Megapixeles Formato del Sensor\tCMOS Clase\tProfesional Tipo de Batería\tRecargable Tamaño LCD\t3.5 pulgadas Número de Artículo\tSO0594 Catálogo Fabricante\t43651500",
+      "price": 7659,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto12/mejorado/Camara_12.png",
+      "rating": 4,
+      "vendor_name": "Sony",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 13,
+      "ProductName": "Videocámara PANASONIC AG-CX350P",
+      "categoryID": "1",
+      "descriptions": "•\tSensor MOS de 1\" •\t20x óptico, 32x zoom inteligente •\tUHD 4K, 1080p, velocidad de cuadro variable •\t2 x ranura para tarjeta de medios, grabación HLG  Especificaciones Marca\tPANASONIC Modelo\tPANASONIC AG-CX350P Resolución de Video\t4K Conectividad\tVia Cables Resolución\t15 Megapixeles WiFi\tNo Clase\tProfesional Tipo de Batería\tRecargable Tamaño LCD\t3 pulgadas Número de Artículo\tPA0535 Catálogo Fabricante\tAG-CX350P",
+      "price": 12399,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto13/mejorado/Camara_13.png",
+      "rating": 5,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Videocámara SONY HDR.docx",
+      "categoryID": "1",
+      "descriptions": "•\tPuerto micro HDMI. •\tEstabilizador óptico integrado. •\tVídeoCámara Full HD (1920x1080). •\tGraba en formato XAVC S (50mbps). •\tSensor CMOS EXMOR R. Foto fija de 9.2 mpx. •\tLente Zeiss Vario-Tessar f1.8-4 Zoom óptico de 30x. •\tRanura para memorias micro SD.  Especificaciones Marca\tSONY Modelo\tSONY HDR-CX405 HD Resolución de Video\tFull HD 1080p Conectividad\tVia Cables Resolución\t9 Megapixeles Clase\tSemiprofesional Tipo de Batería\tRecargable Tamaño LCD\t2.7 pulgadas WiFi\tNo Número de Artículo\tSO0579 Catálogo Fabricante\t2439163",
+      "price": 12353,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto14/mejorado/Camara_14.png",
+      "rating": 3,
+      "vendor_name": "Sony",
+      "id": 14,
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 15,
+      "ProductName": "Lente Canon CINEMA CN-E 18-80mm Con ZS-GC10",
+      "categoryID": "1",
+      "descriptions": "•\tIris manual suave •\tPeso: 2.6 lb / 1.2 kg •\tLongitud: 7.2“ / 182.3mm •\tEstabilización óptica de imagen •\tAjuste de foco trasero (back-focus) •\tCobertura de sensor Super 35 mm •\tDistancia mínima de enfoque: 1.6’ / 0.5m •\tRango de zoom de 18-80mm (relación de 4.4x) •\tApertura constante de T4.4, equivalente a F/4.0 •\tEmpuñadura servo: incluida y fácilmente desmontable •\tEnfoque automático / Enfoque manual (sin stops duros) •\tFiltro: rosca de 77mm para filtros frontales (utilicé un filtro Vari ND para mi prueba) •\tAlimentado a través de la montura o conector del lente (funciona con cámaras Sony) •\tZoom Rocker •\tBotón de AF de un disparo •\tBotón de inicio / parada de VTR •\tPuede ser utilizado separado de la lente •\tCompatible con lentes COMPACT-SERVO •\tAdaptador de roseta para fijación a la lente  Especificaciones Marca\tCANON Modelo\tCANON CN-E 18-80mm Con ZS-GC10 Compatibilidad Sensor de Imagen\tEF (Full Frame) Serie\tCINEMA EOS Tipo de Lente\tGran Angular Catálogo Fabricante\t1714C009AA Medida de Lente\t10-18mm Número de Artículo\tCA12115",
+      "price": 1721,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto15/mejorado/Accesorio_15.png",
+      "rating": 5,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 16,
+      "ProductName": "Lente Cine FUJINON MKX 18-55mm T2.9",
+      "categoryID": "1",
+      "descriptions": "•\tPesa 2.16 libras •\tClickless 9-Blade Iris •\tCubre el formato Super 35 •\tAjuste de distancia focal de brida •\t3 x engranajes estándar 0.8 MOD •\tFuji X-Mount con contactos eléctricos •\tDiámetro exterior delantero de 85 mm •\tRotación de enfoque de 200 ° y modo macro •\tApertura T2.9 consistente sobre el rango de zoom •\tEl color coincide con la serie Fujinon HK / ZK / XK  Especificaciones Marca\tFUJIFILM Modelo\tFUJINON MKX18-55mm T2.9 Compatibilidad Sensor de Imagen\tAPS-C Tipo de Lente\tZoom Número de Artículo\tS/C459 Catálogo Fabricante\t352030190",
+      "price": 8789,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto16/mejorado/Accesorio_16.png",
+      "rating": 3,
+      "vendor_name": "Fujifilm",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 17,
+      "ProductName": "Tripie MANFROTTO 058B TRI-AUT 3 Secciones S/Cabeza",
+      "categoryID": "8",
+      "descriptions": "•\tPresenta un sistema patentado de liberación individual o simultánea de las patas que permite extender las patas, nivelar el tripié (burbuja de nivel incluida) y bloquearlo en segundos sin tener que ajustar cada pata individualmente. Puntas de goma con clavo retráctil son elementos standard. Diámetro de las patas en mm: 30,25,20.  Especificaciones Marca\tMANFROTTO Modelo\t058B TRI-AUT Tipo de uso\tTripié para Foto y Video Altura Máxima con Columna Extendida\t217 cm Altura Máxima\t191 cm Altura Mínima\t44 cm Número de Artículo\tMN1210 Catálogo Fabricante\t0250509",
+      "price": 2589,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto17/mejorado/Accesorio_17.png",
+      "rating": 3,
+      "vendor_name": "Manfrotto",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 18,
+      "ProductName": "Lampara GODOX 308 LED Para DSRL",
+      "categoryID": "8",
+      "descriptions": "•\tSet 3 filtros •\tControl remoto •\tBase para mesa •\tPantalla de LED •\tLámpara 308 Led Godox •\tFrecuencia Inalámbrica 433 MHz  Especificaciones Marca\tGODOX Modelo\tGODOX 308 LED Número de Artículo\tGX1130 Catálogo Fabricante\tLED308",
+      "price": 1500,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto18/mejorado/Accesorio_18_1.png",
+      "rating": 4,
+      "vendor_name": "Godox",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 19,
+      "ProductName": "Flash SONY HVL-F28RM",
+      "categoryID": "8",
+      "descriptions": "•\tSe inclina de 0 a 120 ° •\tModos HSS y flash múltiple •\tCompatible con Sony ADI / P-TTL •\tResistente al polvo y a la humedad •\tControla hasta 15 flashes / 5 grupos •\tAjuste de salida manual: 1/1 a 1/256 •\tPie de metal y marco lateral resistente •\tNúmero de guía: 92 'a ISO 100 y 50 mm •\tTransceptor de radio de 2,4 GHz, alcance de 115 ' •\tControlador de relación TTL inalámbrico / remoto  Especificaciones Marca\tSONY Modelo\tHVL-F28RM Número de Artículo\tSO1117 Catálogo Fabricante\t02676951",
+      "price": 1232,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto19/mejorado/Accesorio_19.png",
+      "rating": 4,
+      "vendor_name": "Sony",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 20,
+      "ProductName": "Cortadores APUTURE BarnDoor",
+      "categoryID": "8",
+      "descriptions": "•\tLos Cortadores Barn door Aputure son modificadores de luz que se ajustan al reflector que viene con todas las versiones de estas luces LED Aputure  Especificaciones Marca\tAPUTURE Modelo\tBARNDOOR Kit\tKit Accesorios Iluminación Número de Artículo\tAU1118 Catálogo Fabricante\tBARNDOOR",
+      "price": 370,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto20/mejorado/Accesorio_20.png",
+      "rating": 4,
+      "vendor_name": "Aputure",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 21,
+      "ProductName": "Impermeable MANFROTTO MB PL-CRC-15 para Cámara de Vídeo Pro Light",
+      "categoryID": "8",
+      "descriptions": "•\tMaterial impermeable RipStop •\tFundas para micrófono y visor •\tPaneles transparentes de TPU para ver los controles de la cámara •\tDiseño de fondo abierto para acceso a cámara y montaje de trípode  Especificaciones Marca\tMANFROTTO Modelo\tMANFROTTO MB PL-CRC-15 para Cámara de Vídeo Pro Light Tipo de Accesorio\tAccesorio Fotografía Número de Artículo\tMN0841 Catálogo Fabricante\t3900508",
+      "price": 735,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto21/mejorado/Accesorio_21.png",
+      "rating": 4,
+      "vendor_name": "Manfrotto",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 22,
+      "ProductName": "Impermeable MANFROTTO MB PL-E-705 para Cámara Pro Light",
+      "categoryID": "8",
+      "descriptions": "•\tFácil cierre deslizante / cordón •\tDos amplias mangas laterales •\tInstalado sin quitar la lente / monitor •\tCremallera doble inferior para cierre rápido •\tCompatible con la extensión opcional E-704 •\tCubre DSLR con lente y flash de 70-200 mm •\tProtección impermeable para cámaras / lentes •\tMantiene acceso completo a los controles de la lente •\tLa capucha rígida ajustable se adapta a muchas lentes •\tRipStop Nylon / Paneles transparentes para visualización  Especificaciones Marca\tMANFROTTO Modelo\tMANFROTTO MB PL-E-705 para Cámara Pro Light Tipo de Accesorio\tAccesorio Fotografía Número de Artículo\tMN0842 Catálogo Fabricante\t3900510",
+      "price": 465,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto22/mejorado/Accesorio_22.png",
+      "rating": 4,
+      "vendor_name": "Manfrotto",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 23,
+      "ProductName": "Jaula SMALL RIG para Cámara Fotográfica Canon EOS R",
+      "categoryID": "1",
+      "descriptions": "•\tMonta tu Canon EOS R con esta jaula de ajuste de SmallRig con su diseño de fotograma completo, esta jaula protege su Canon EOS R al tiempo que proporciona numerosos agujeros de 1/4\"- 20, 3/8\" - 16 y ARRI para accesorios de montaje.  Especificaciones Marca\tSMALL RIG Modelo\tJaula Small Rig Tipo de Accesorio\tAccesorio Fotografía Número de Artículo\tRS0101 Catálogo Fabricante\t2251",
+      "price": 342,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto23/mejorado/Camara_23.png",
+      "rating": 4,
+      "vendor_name": "Small Rig",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 24,
+      "ProductName": "Empuñadura CANON BG-E22 Battery Grip",
+      "categoryID": "1",
+      "descriptions": "•\tExtiende el tiempo de grabación •\tPara cámara digital sin espejo EOS R •\tConfort y control en posición vertical •\tAdmite hasta dos baterías LP-E6 / LP-E6N •\tConstrucción resistente al polvo y al agua •\tBotones de control y obturador adicionales  Especificaciones Marca\tCANON Modelo\tCANON BG-E22 Tipo de Accesorio\tBatería Fotográfica Número de Artículo\tCA0195 Catálogo Fabricante\t3086C002AA",
+      "price": 548,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto24/mejorado/Accesorio_24_1.png",
+      "rating": 2,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 25,
+      "ProductName": "Softbox Light APUTURE Dome II 34.8",
+      "categoryID": "8",
+      "descriptions": "•\tIncluido con un complemento de rejilla de nido de abeja de tela que ayuda a controlar la dispersión de la luz en 40 grados, y adecuado para retratos, disparos en la cabeza, entrevistas y moda, el Light Dome II de 34.8\"  Especificaciones Marca\tAPUTURE Modelo\tLIGHTDOMEII Kit\tKit Accesorios Iluminación Número de Artículo\tAU1116 Catálogo Fabricante\tLIGHTDOMEII",
+      "price": 600,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto25/mejorado/Accesorio_25_1.png",
+      "rating": 4,
+      "vendor_name": "Aputure",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 26,
+      "ProductName": "Cámara PENTAX K-S2 Con Lente 18-135mm",
+      "categoryID": "1",
+      "descriptions": "•\tModo asistencia selfies •\tSensibilidad ISO hasta 51200 •\tCuerpo resistente a la intemperie •\tSensor CMOS estabilizado de 20 MP •\tGrabación vídeo Full HD a 30 fps, codec H.264 •\tNuevo objetivo compacto con construcción WR •\tAplicación dedicada para el control remoto y el compartir en las redes sociales  Especificaciones Marca\tRICOH-PENTAX Modelo\tPENTAX K-S2 Con Lente 18-135mm Conectividad\tWIFI Tipo de Batería\tRecargable Tamaño de Sensor\tAPS-C Tamaño LCD\t3 pulgadas Resolución\t20 Megapixeles Clase\tProfesional Número de Artículo\tPE0633 Catálogo Fabricante\tS0011597",
+      "price": 17699,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto26/mejorado/Camara_26_1.png",
+      "rating": 5,
+      "vendor_name": "Ricoh-Pentax",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 27,
+      "ProductName": "Cámara PENTAX K-1 Cuerpo Edición Limitada Plata",
+      "categoryID": "1",
+      "descriptions": "•\tISO 204800 •\tSimulador de filtro AA •\tPixels Shift Resolution •\tAprox. 36.4 megapíxeles •\tNuevo sistema AF, SAFOX 12 •\tWi-Fi, GPS, ASTROTRACER •\tSensor de formato full-frame 35mm •\tMonitor LCD con inclinación variable •\tMotor de imagen de nuevo diseño, PRIME IV •\t5 ejes, mecanismo de estabilización SR que corrige hasta 5 pasos de obturación  Especificaciones Marca\tRICOH-PENTAX Modelo\tPENTAX K-1 Cuerpo Edición Limitada Plata Conectividad\tWIFI Tipo de Batería\tRecargable Tamaño LCD\t3 pulgadas Resolución de Video\tFull HD 1080p Resolución\t36 Megapixeles Clase\tProfesional Tamaño de Sensor\tFull Frame Número de Artículo\tRI0609 Catálogo Fabricante\tS0019966",
+      "price": 1989,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto27/mejorado/Camara_27.png",
+      "rating": 4,
+      "vendor_name": "Ricoh-Pentax",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 28,
+      "ProductName": "Cámara NIKON D780 con Lente 24-120mm",
+      "categoryID": "1",
+      "descriptions": "•\t7 CPS disparo continuo •\t24.5 megapíxeles efectivos •\tISO 51,200 expansible hasta 204,800 •\tSensor CMOS formato FX retro iluminado •\tVideo 4K UHD 3840 x 2160 a 30p/25p/24p •\tWi-fi y Bluetooth incorporado (SnapBridge) •\tProcesador Expeed 6, el más avanzado de Nikon •\tPantalla LCD táctil de 3.2” y 2 ranuras para tarjeta SD  Especificaciones Marca\tNIKON Modelo\tNIKON D780 con Lente 24-120mm Conectividad\tWIFI & BLUETOOTH Tipo de Batería\tRecargable Formato del Sensor\tCMOS Tamaño de Sensor\tFull Frame Tamaño LCD\t3.2 pulgadas Clase\tProfesional Número de Artículo\tNK06143 Catálogo Fabricante\tVBK560XU",
+      "price": 1232,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto28/mejorado/Camara_28.png",
+      "rating": 3,
+      "vendor_name": "Nikon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 29,
+      "ProductName": "Cámara Canon Powershot ELPH 360 HS Morada",
+      "categoryID": "1",
+      "descriptions": "•\tAuto Zoom •\tWi- Fi y NFC •\tFiltros Creativos •\tDisparo Creativo •\tProcesador DIGIC 4+ •\tPantalla LCD de 3,0” •\tFull HD (1080p) en formato MP4 •\tSensor CMOS de 20,2 megapíxeles •\tEstabilizador Óptico de la Imagen inteligente •\tEco Mode; ahorro de energía para más disparos •\tVersátil objetivo con zoom óptico 12x y gran angular de 25 mm con ZoomPlus de 24x  Especificaciones Marca\tCANON Modelo\tCanon Powershot ELPH 360 HS Morada Conectividad\tWIFI & NFC Tipo de Batería\tRecargable Formato del Sensor\tCMOS Resolución\t20 Megapixeles Tamaño LCD\t3 pulgadas Resolución de Video\tFull HD 1080p Clase\tCompacta Número de Artículo\tCA06473 Catálogo Fabricante\t1081C001AA",
+      "price": 2120,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto29/mejorado/Camara_29.png",
+      "rating": 5,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 30,
+      "ProductName": "Cámara OLYMPUS Stylus 710",
+      "categoryID": "1",
+      "descriptions": "•\tQuick Time •\tArregla los ojos rojos •\tCompatible con PictBridge •\tPantalla LCD a color de 2.5\" •\tBatería recargable de Li-ion y cargador •\tProcesador de imagen TruePic TURBO •\tZoom continuo total de 15x (3x óptico, 5x digital) •\t28 modos de fotografía incluyendo modo de película •\tZoom óptico 3x de 37mm-111mm (equivalente a 35mm) •\tSensor de imágenes CDD de 7.1 megapixeles (efectivos) •\tConexión automática USB (almacenamiento masivo USB)  Especificaciones Marca\tOLYMPUS Modelo\tCámara OLYMPUS Stylus 710 Conectividad\tVia Cables Tipo de Batería\tRecargable Tamaño de Sensor\t1/2.3\" Resolución\t7 Megapixeles Tamaño LCD\t2.5 pulgadas Clase\tCompacta Número de Artículo\tOL0607 Catálogo Fabricante\t225760",
+      "price": 1700,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto30/mejorado/Camara_30.png",
+      "rating": 3,
+      "vendor_name": "Olympus",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 31,
+      "ProductName": "Videocámara Canon Vixia HF G60",
+      "categoryID": "1",
+      "descriptions": "•\tZoom óptico de 15x en 4K •\tDoble ranura para tarjeta SD •\tApertura circular de 9 cuchillas •\tEstabilización de imagen de 5 ejes •\tGraba videos de hasta UHD 4K30 •\tProcesador de imagen DIG! C DV 6 •\tPantalla táctil LCD de 3 \", EVF inclinable •\t8.29 MP Sensor de imagen CMOS de 1\" •\tGrabación de intervalos a cámara lenta y rápida  Especificaciones Marca\tCANON Modelo\tCanon Vixia HF G60 Conectividad\tVia Cables Resolución de Video\t4K Tamaño de Sensor\t1\" Resolución\t13 Megapixeles Clase\tProfesional Tipo de Batería\tRecargable Tamaño LCD\t3 pulgadas Número de Artículo\tCA05105 Catálogo Fabricante\t3670C002AA",
+      "price": 2100,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto31/mejorado/Camara_31.png",
+      "rating": 4,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Videocámara SONY FDR-AX100",
+      "categoryID": "1",
+      "descriptions": "•\tProcesador Bionz X •\tConectividad Wi-Fi / NFC •\tZeiss Vario Sonnar T * Lente •\tSensor CMOS Exmor R de 1 \" •\tGraba XAVC S, AVCHD y MP4 •\tVídeo Ultra HD de 4K a 30 fps / 20MP •\tGrabación de alta velocidad de 120 fps •\tLCD XtraFine de 0,39 \"OLED EVF / 3,5\" •\tEstabilización Óptica de Imagen SteadyShot •\tZoom óptico de 12x y 24x Zoom de imagen transparente   Marca\tSONY Modelo\tSONY FDR-AX100 Conectividad\tWIFI & NFC Tamaño de Sensor\t1\" Resolución de Video\t4K Resolución\t14 Megapixeles Clase\tSemiprofesional Tipo de Batería\tRecargable WiFi\tNo Número de Artículo\tSO0587 Catálogo Fabricante\t02431763",
+      "price": 1564,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto32/mejorado/Camara_32.png",
+      "rating": 4,
+      "vendor_name": "Sony",
+      "id": 32,
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 33,
+      "ProductName": "Videocámara Panasonic AVCCAM AG-AC30PJ",
+      "categoryID": "1",
+      "descriptions": "•\tLa videocámara AG-AC30 Full HD de Panasonic con pantalla LCD táctil y pantalla LED incorporada se encuentra en casa, filmando proyectos corporativos, de eventos e indie. Cuenta con un sensor BSI MOS de 1 / 3.1 \"para un rendimiento mejorado con poca luz e incorpora un objetivo con zoom 20x con estabilización de imagen híbrida de 5 ejes. El lente también cuenta con anillos de iris engranados enlazados electrónicamente para el control manual de enfoque, zoom e iris. Incorporado en el asa superior hay una luz LED para iluminar al sujeto con poca luz.  Especificaciones Marca\tPANASONIC Modelo\tAVCCAM AG-AC30PJ Zoom Óptico\t20X Tamaño LCD\t3 pulgadas Resolución Video\tFull HD 1080p Almacenamiento\tSD,SDHC,SDXC Código fabricante\tAG-AC30PJ",
+      "price": 2399,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto33/mejorado/Videocamara_33.png",
+      "rating": 5,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Batería PANASONIC AG-VBR89G",
+      "categoryID": "8",
+      "descriptions": "•\tAprox. Tiempo de carga de 4 horas •\tCompatible con Panasonic AG-DVX200 •\tCargador compatible: Panasonic AG-BRD50P Especificaciones Marca\tPANASONIC Modelo\tPANASONIC AG-VBR89G Tipo de Accesorio\tBatería Fotográfica Bateria Compatible\tAG-DVX200 Cámara Compatible\tPanasonic Número de Artículo\tPA19118 Catálogo Fabricante\tAG-VBR89G",
+      "price": 150,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto34/mejorado/Accesorio_34.png",
+      "rating": 2,
+      "vendor_name": "Panasonic",
+      "id": 34,
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 35,
+      "ProductName": "Batería NIKON EN-EL25",
+      "categoryID": "8",
+      "descriptions": "•\tPara cámara sin espejo Z50 •\tCargue con el adaptador de CA MH-32 o EH-7P  Especificaciones Marca\tNIKON Modelo\tNIKON EN-EL25 Tipo de Accesorio\tAccesorio Fotografía Medidas\t6.1 x 4.45 x 8.26 cm Número de Artículo\tNK1947 Catálogo Fabricante\tVFB12501",
+      "price": 100,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto35/mejorado/Accesorio_35.png",
+      "rating": 2,
+      "vendor_name": "Nikon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 36,
+      "ProductName": "Lente PANASONIC LUMIX G 12.5mm F12",
+      "categoryID": "8",
+      "descriptions": "•\tLente 3D de micro cuatro tercios y 12.5 mm/68 mm (equivalente a cámara de 35 mm).  Especificaciones Marca\tPANASONIC Modelo\tPANASONIC LUMIX G 12.5mm/F12 Compatibilidad Sensor de Imagen\tMicro 4/3 (mirrorless) Medidas\t6x11x7 Tipo de Lente\tZoom Medida de Lente\t12.5mm Número de Artículo\tPA1212 Catálogo Fabricante\tH-FT012PP",
+      "price": 1299,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto36/mejorado/Accesorio_36.png",
+      "rating": 5,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 37,
+      "ProductName": "Lente PANASONIC 45mm F2.8 ASPH",
+      "categoryID": "8",
+      "descriptions": "•\tUna lente asférica y una lente ED para un rendimiento óptico excepcional. •\tUna calidad de imagen excepcional con distorsión, aberraciones cromáticas mínimas, así como fantasmas y reflejos que pasan una escritura normal Leica.  Especificaciones Marca\tPANASONIC Modelo\tPANASONIC 45mm F2.8 ASPH Compatibilidad Sensor de Imagen\tMicro 4/3 (mirrorless) Medidas\t13x18x23 Tipo de Lente\tZoom Medida de Lente\t45mm Número de Artículo\tPA1211 Catálogo Fabricante\tH-ES045PP",
+      "price": 935,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto37/mejorado/Accesorio_37.png",
+      "rating": 4,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 38,
+      "ProductName": "Lente SONY SEL135F18GM/SYX",
+      "categoryID": "8",
+      "descriptions": "•\tTeleobjetivo prime de calidad superior serie G Master •\tElementos XA y de cristal Super ED para disfrutar de una alta resolución en toda la imagen •\tNanorrevestimiento antirreflejante de Sony para eliminar los destellos e imágenes superpuestas •\tEl motor lineal XD ofrece una excelente respuesta y baja vibración para contar con un AF rápido y preciso •\tEl interruptor limitador de distancia de enfoque y otras funciones satisfacen tus necesidades fotográficas profesionales   Marca\tSONY Modelo\tSONY SEL135F18GM/SYX Compatibilidad Sensor de Imagen\tAPS-C Apertura Max\tF/1.8 Apertura Min\tF/22 Montura de Lente\tMontura E Tipo de Lente\tTelefoto Medida de Lente\t135mm Serie\tG MASTER Número de Artículo\tSO1264 Catálogo Fabricante\t32847740",
+      "price": 900,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto38/mejorado/Accesorio_38.png",
+      "rating": 4,
+      "vendor_name": "Sony",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 39,
+      "ProductName": "Adaptador de Montura CANON EF-EOS R con Filtro DROP-IN de Densidad",
+      "categoryID": "8",
+      "descriptions": "•\tResistente al polvo y al agua •\tLente Canon EF / EF-S a cámara EOS R •\tMantiene AF y estabilización de imagen •\tIncluye filtro ND variable incorporado A  Especificaciones Marca\tCANON Modelo\tCANON EF-EOS R con Filtro DROP-IN de Densidad Compatibilidad Sensor de Imagen\tEF-S (APS-C), EF (Full Frame) Linea\tEOS R Tipo de Lente\tAdaptadores Número de Artículo\t3443C003AA Catálogo Fabricante\tCA12148",
+      "price": 599,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto39/mejorado/Accesorio_39.png",
+      "rating": 5,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 40,
+      "ProductName": "Lente FUJINON XF 35mm F2 R WR",
+      "categoryID": "8",
+      "descriptions": "•\tAnillo de apertura física •\t53mm (35mm Equivalente) •\tConstrucción Weather-Sealed •\tSistema AF de enfoque interno •\tRevestimiento de lente Nano-GI •\tIntervalo de apertura: f / 2 a f / 16 •\tDos ED y dos elementos asféricos •\tDiafragma de 9 láminas redondeado •\tFormato de lente de montaje X / APS-C Especificaciones Marca\tFUJIFILM Modelo\tFUJINON XF 35mm F2 R WR Compatibilidad Sensor de Imagen\tAPS-C Apertura Max\tF/2 Apertura Min\tF/16 Tipo de Lente\tAngular Medida de Lente\t35mm Número de Artículo\tFU1205 Catálogo Fabricante\t352030119",
+      "price": 980,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto40/mejorado/Accesorio_40.png",
+      "rating": 4,
+      "vendor_name": "Fujifilm",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 41,
+      "ProductName": "Montura de Adaptador NIKON FTZ",
+      "categoryID": "8",
+      "descriptions": "•\tMontaje 1/4\" -20 integrado •\tMantiene el enfoque infinito •\tMantiene AF / AE con lentes E, G, D •\tLente Nikon F para cámara Nikon Z-Mount  Especificaciones Marca\tNIKON Modelo\tMontura de Adaptador NIKON FTZ Tipo de Accesorio\tAccesorio Fotografía Medidas\t12.07 x 11.43 x 9.53 cm Peso\t0.75 Kg Número de Artículo\tNK0137 Catálogo Fabricante\tJMA70201",
+      "price": 1039,
+      "is_avalible": "false",
+      "productImg": "./assets/img/Producto41/mejorado/Accesorio_41.png",
+      "rating": 3,
+      "vendor_name": "Nikon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 42,
+      "ProductName": "Micrófono DEITY V-Mic D3",
+      "categoryID": "8",
+      "descriptions": "•\tBatería AAA de 166 horas •\tOperación simple sin controles •\tIncluye parabrisas y cable TRRS •\tPara cámaras y dispositivos móviles •\tPeriodista móvil, Vlogger, Run & Gun •\tCuerpo ligero, acabado de baja reflexión •\tBajo nivel de ruido y distorsión, alta SNR •\tConfiguración automática de salida TRRS de 3,5 mm •\tZapata / poste / trípode desmontable Amortiguador •\tInterruptor de encendido con LED y encendido / apagado automático  Especificaciones Marca\tDEITY Modelo\tDEITY V-Mic D3 Tipo de Micrófono\tShotgun (direccional) Número de Artículo\tDY0703 Catálogo Fabricante\tVMICD3",
+      "price": 680,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto42/mejorado/Accesorio_42_1.png",
+      "rating": 4,
+      "vendor_name": "Deity",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 43,
+      "ProductName": "Micrófono COMICA SV20 Escopeta Estereo",
+      "categoryID": "8",
+      "descriptions": "•\tFunciona hasta 36 horas con batería •\tSonido estéreo claro para cámaras DSLR •\tConstrucción robusta totalmente metálica •\tDocumentales, Videos musicales, Ambientes  Especificaciones Marca\tCOMICA Modelo\tCOMICA SV20 Tipo de Micrófono\tEstéreo (ambiental) Número de Artículo\tCM0702 Catálogo Fabricante\tC30021",
+      "price": 990,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto43/mejorado/Accesorio_43.png",
+      "rating": 3,
+      "vendor_name": "Comica",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 44,
+      "ProductName": "Videocámara PANASONIC AG-UX180 4K",
+      "categoryID": "1",
+      "descriptions": "•\tSensor tipo CMOS de 1.0 \" •\tTiro nocturno por infrarrojos •\tRelé, Simultáneo y REC de fondo •\t4K 24P, UHD 60p / 50p / 30p / 25p / 24p •\t3 x anillos manuales de control de lentes •\tFunción de corrección de color de 16 ejes •\t8,8 a 176 mm Zoom óptico de 20x con OIS •\tGrabación de doble codificador UHD / FHD •\tFHD Grabación de cámara lenta a 120 FPS •\tGrabación de doble codificador en UHD / FHD  Especificaciones Marca\tPANASONIC Modelo\tPANASONIC AG-UX180 4K Resolución\t24 Megapixeles Resolución de Video\t4K WiFi\tNo Clase\tProfesional Tipo de Batería\tRecargable Tamaño de Sensor\t1\" Tamaño LCD\t3.5 pulgadas Número de Artículo\tPA0533 Catálogo Fabricante\tAG-UX180P",
+      "price": 12000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto44/mejorado/Camara44.png",
+      "rating": 4,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 45,
+      "ProductName": "Videocámara CANON Cinema XC15 4K",
+      "categoryID": "1",
+      "descriptions": "•\tGrabación a cámara rápida y lenta •\tDoble ranura para tarjetas CF y CFast •\tTecnología de grabación 4K UHD CFast™ •\tXF - AVC Codec de hasta 4K UHD 30p y Full HD 60p •\t4K UHD gran angular 10x lente de zoom con estabilizador de imagen •\tMódulo de Audio Pro con entradas XLR y control de audio de precisión  Especificaciones Marca\tCANON Modelo\tVídeocámara CANON Cinema XC15 4K Resolución de Video\tFull HD 1080p WiFi\tNo Tipo de Batería\tRecargable Tamaño LCD\t3 pulgadas Clase\tVideo Profesional A Prueba de Agua\tNo Audio\tAudio XLR profesional Número de Artículo\tCA0586 Catálogo Fabricante\t1456C002AA",
+      "price": 8800,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto45/mejorado/Camara45.png",
+      "rating": 3,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 46,
+      "ProductName": "Videocámara Canon XF705",
+      "categoryID": "1",
+      "descriptions": "•\tSalidas 12G-SDI y HDMI •\tZoom óptico 15x, digital 30x •\tEstabilización óptica y digital •\tSensor CMOS de 1\", 13.4MP •\tUHD 4K hasta 60 fps, 1080p a 120 fps •\tGrabación HDR, Canon Log 3, Wide DR •\t2 x ranuras para tarjetas de memoria SDXC •\tH.265 / HEVC Codec, 4: 2: 2 Color de 10 bits •\tEntradas XLR dobles, audio LPCM de 4 canales •\tCaracterística de autofocus de doble píxel CMOS  Especificaciones Marca\tCANON Modelo\tCanon XF705 WiFi\tNo Resolución\t13 Megapixeles Resolución de Video\t4K Clase\tProfesional Tamaño LCD\t4 pulgadas Tipo de Batería\tRecargable Tamaño de Sensor\t1\" Número de Artículo\tS/C559 Catálogo Fabricante\t3041C002",
+      "price": 13000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto46/mejorado/Videocamara_46.png",
+      "rating": 4,
+      "vendor_name": "Canon",
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Cámara PENTAX KP Cuerpo (Negra)",
+      "categoryID": "1",
+      "descriptions": "•\tSensor AF SAFOX 11 de 27 puntos •\tISO 819200; Disparo continuo de 7 fps •\tMotor PRIME IV con unidad de acelerador •\tSensor CMOS sin filtro APS-C AA de 24,3 MP •\tAgarre intercambiable con función inteligente •\tVideo Full HD 1080p30; Película a intervalos 4K •\tMonitor LCD inclinable de 3,0 \"y 921.000 puntos •\tReducción de vibraciones en el cuerpo de 5 ejes II •\tResolución de desplazamiento de píxeles; Wi-fi incorporado  Especificaciones Marca\tPENTAX Modelo\tPentax KP Tamaño LCD\t3 pulgadas Conectividad\tWIFI Tipo de Batería\tRecargable Formatos\tJPEG, RAW Tamaño de Sensor\tAPS-C Resolución\t24 Megapixeles Resolución de Video\t4K Número de Artículo\tPE0642 Catálogo Fabricante\tS0016027",
+      "price": 14000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto47/mejorado/Camara_47.png",
+      "rating": 5,
+      "vendor_name": "Pentax",
+      "id": 47,
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Cámara RICOH WG-6 Naranja",
+      "categoryID": "1",
+      "descriptions": "•\t4K - grabación de vídeo a 30fps •\tZoom óptico de 5 x desde 28mm •\tA prueba de agua hasta 20 metros •\tA prueba de congelación hasta -10º •\tA prueba de golpes hasta 2.1 metros •\tAproximadamente 20 megapíxeles efectivos  Especificaciones Marca\tRICOH-PENTAX Modelo\tRICOH WG-6 Naranja Tamaño de Sensor\t1/2.3\" Resolución de Video\t4K Tamaño LCD\t3 pulgadas Tipo de Batería\tRecargable Resolución\t20 Megapixeles Conectividad\tWIFI Clase\tAcción Número de Artículo\tRI0613 Catálogo Fabricante\tS0003860",
+      "price": 14000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto48/mejorado/Camara_48.png",
+      "rating": 5,
+      "vendor_name": "Ricoh-Pentax",
+      "id": 48,
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Action Cam SONY HDR-AS50R con Control Remoto",
+      "categoryID": "1",
+      "descriptions": "•\tConectividad Wi-Fi/Bluetooth •\tAction Cam FULL HD (1929x1080) •\tGraba en formato XAVC S (50Mbps) •\tSensor CMOS Exmor R™ con 3x de zoom •\tLente gran algular Carl-Zeiss Tessar® para 170°  Especificaciones Marca\tSONY Modelo\tSONY HDR-AS50R Con Control Remoto Tamaño de Sensor\t1/2.3\" Tipo de Batería\tRecargable Resolución\t11.1 Megapixeles Conectividad\tWIFI Resolución de Video\tFull HD 1080p Clase\tAcción Tamaño LCD\tNo incluida Número de Artículo\tSO0580 Catálogo Fabricante\t02444663",
+      "price": 1200,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto49/mejorado/Camara49.png",
+      "rating": 3,
+      "vendor_name": "Sony",
+      "id": 49,
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 50,
+      "ProductName": "Cámara SONY RX0 II",
+      "categoryID": "1",
+      "descriptions": "•\t1.5\" 230k-dot 180° LCD inclinable •\tDisparo continuo ISO 12800 y 16 fps •\tWi-Fi y Bluetooth; Control multicámara •\tUHD interno 4K30 Video y S-Log2 Gamma •\tSteadyShot electrónico; Salida HDMI limpia •\tModo HFR para cámara lenta hasta 1000 fps •\tGrabación de intervalos; Entrada de micrófono •\tZEISS Tessar T * 24 mm equivalente a 4 lentes •\tSensor CMOS apilado Exmor RS de 15.3MP 1\" •\tA prueba de agua, polvo, golpes y aplastamiento  Especificaciones Marca\tSONY Modelo\tSONY RX0 II Conectividad\tWIFI Tipo de Batería\tRecargable Resolución\t15 Megapixeles Tipo de Cámara\tSumergibles y Acción Formato del Sensor\tCMOS Tamaño LCD\t1.5 pulgadas Resolución de Video\t4K Número de Artículo\tSO06140 Catálogo Fabricante\t80818730",
+      "price": 24000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto50/mejorado/Camara_50.png",
+      "rating": 5,
+      "vendor_name": "Sony",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 51,
+      "ProductName": "Cámara Nikon Coolpix W150 Azul (Reempacado)",
+      "categoryID": "1",
+      "descriptions": "•\tSensor CMOS 13.2MP 1 / 3.1\" •\t30-90 mm (equivalente a 35 mm) •\tZoom óptico NIKKOR 3x con lente 3.3-5.9 •\tResistente al agua hasta 10 metros y caídas de hasta 1.8 metros de altura.  Especificaciones Marca\tNIKON Modelo\tCoolpix W150 Conectividad\tWIFI Tipo de Batería\tRecargable Resolución\t13 Megapixeles Formato del Sensor\tCMOS Tamaño LCD\t2.7 pulgadas Resolución de Video\tFull HD 1080p Clase\tAcción Número de Artículo\tNK06166 Catálogo Fabricante\t26531M",
+      "price": 9800,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto51/mejorado/Camara_51.png",
+      "rating": 3,
+      "vendor_name": "Nikon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 52,
+      "ProductName": "Cámara FUJI iNSTAX Wide 300",
+      "categoryID": "1",
+      "descriptions": "•\tRetractable 95mm f / 14 Lens •\tTamaño de la imagen: 2.4 x 3.9 \" •\tFlash incorporado y pantalla LCD •\tEnfoque motorizado de dos rangos •\tVisor óptico de 0.37x y punto de destino •\tUtiliza Fujifilm INSTAX Instant Color Film •\tAdaptador de lente de primer plano incluido •\tExposición Automática y Obturador Programado •\tVentana de paquete de película y conector de trípode  Especificaciones Marca\tFUJIFILM Modelo\tFUJI iNSTAX Wide 300 Tipo de Batería\tAlcalina Serie\tWide 300 Clase\tInstantanea Número de Artículo\tFU0437 Catálogo Fabricante\t301015018",
+      "price": 14500,
+      "is_avalible": "true",
+      "productImg": "./assets/img/Producto52/mejorado/Camara_52.png",
+      "rating": 4,
+      "vendor_name": "Fujifilm",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 53,
+      "ProductName": "Sony FDRAX43/B Videocámara Handycam 4K",
+      "categoryID": "1",
+      "descriptions": "SteadyShot óptico balanceado con modo activo inteligente Grabación en 4K Ultra HD (3840 x 2160) Lente Carl ZEISS Vario-Sonnar T* de 26,8 mm(*) con zoom óptico de 20x*Equivalente a 35 mm. Resolución video: 720p Información de Producto Marca\tSony Nombre del modelo\tFDR-AX43/BC UC2 Característica especial\tEnfoque automático rápido e inteligente, Brillante 4K1, Resaltar Movie Maker, Cardán integrado, Sensor CMOS Exmor R® y motor de procesamiento BIONZ XEnfoque automático rápido e inteligente, Brillante 4K1, Resaltar Movie Maker, Cardán integrado, Sensor CMOS Exmor R® y motor de procesamiento BIONZ X Ver más Resolución de captura de video\t1080p, 720p Tecnología de conectividad\tWi-Fi, NFC Tiene estabilización de la imagen\tSí Estabilización de la imagen\tÓptica Zoom óptico\t20 Formato de captura de video\tXAVC-S Longitud focal máxima\t536 Millimeters",
+      "price": 17999,
+      "is_avalible": "true",
+      "productImg": "./assets/img/1.png",
+      "rating": 4,
+      "vendor_name": "Carl Zeiss",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 54,
+      "ProductName": "Huawei MateStation S- PC Escritorio, Procesador AMD Ryzen 5",
+      "categoryID": "2",
+      "descriptions": "MateStation PC, Procesador AMD Ryzen 5 4600G, Procesador Gráfico Radeon Graphics SSD: 256 GB M.2 con espacio para expansión de otra memoria. HDD: Soporta la instalación de un disco SATA para expansión. Capacidad de la batería: Output 250 V/10 A Software Windows 10 Home 64-bit Información de Producto Series\tMateStation S Sistema operativo\tWindows 10 Home Marca\tHuawei Descripción del disco duro\tSSD Color\tGris",
+      "price": 11199,
+      "is_avalible": "true",
+      "productImg": "./assets/img/2.png",
+      "rating": 4,
+      "vendor_name": "Huawei",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 55,
+      "ProductName": "KAMYSEN Audífonos Gaming InEar,con micrófono Dual Desmontable",
+      "categoryID": "5",
+      "descriptions": "🎮【Micrófonos Dual】Micrófono desmontable de alta definición 360°rotativo para uso gaming que reduce el ruido exterior transmitiendo su voz claramente, y un micrófono con control de volumen integrado en los audífonos para uso manos libres. 🎮【Los nuevos auriculares Gaming】Auriculares para juegos están diseñados para luchar en cualquier plataforma, en cualquier lugar que juegues. Desde viajes por carretera con Nintendo Switch hasta Battle Royales en Xbox One o PS4 en casa hasta juegos móviles en tu viaje diario, El auricular es la mezcla perfecta de comodidad en el oído y gran sonido. Diseñado para ser escuchado alto y claro con un micrófono extraíble de alta sensibilidad o micrófono en línea cuando estás en movimiento. 🎮【Diseño Ergonómico y Compacto】Audífonos gaming in-ear que no molesta con el uso largo, juega y disfruta con tus amigos gamers toda la diversión de los videojuegos. 🎮【Calidad de sonido increíble】Disfruta de una salida de audio increíble Con estos auriculares. ¡Escucha cada pequeño detalle y da vida al juego! Obtenga una ventaja táctica sobre sus oponentes al escucharlos antes de que incluso los vea. Los graves fuertes, el sonido estéreo y la claridad del vidrio te sumergen en el mundo. 🎮【Ampliamente compatibles】Auriculares para juegos con micrófono con conector de 3,5 mm no solo pueden funcionar con Nintendo Switch, sino que también pueden funcionar con PlayStation 4, X Box One, PC, computadora portátil, computadora. Tenga en cuenta que necesita un adaptador de Microsoft adicional (no incluido) cuando se conecta con una versión anterior X box One.  Marca\tKAMYSEN Color\tRojo Tipo de conector\tAlámbrico Factor de forma de los auriculares\tIntraurales Conector de auriculares\tJack de 3,5 mm",
+      "price": 239,
+      "is_avalible": "true",
+      "productImg": "./assets/img/3.png",
+      "rating": 3,
+      "vendor_name": "Kamisen",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 56,
+      "ProductName": "ZTE Blade A3 2020 32GB 4G LTE",
+      "categoryID": "6",
+      "descriptions": "Equipado con pantalla HD+ de 5.45” con proporción de 18:9. Cuenta con sistema operativo Android 9 (Go Edition) y batería de 2600 mAh. Cámara trasera de 8 Mpx con filtros y soporte para HDR que hace la mezcla perfecta entre brillo, contraste y saturación.Incluye modo de foto panorámica que captura perfectamente paisajes, grandes edificios y fotos grupales. Cuenta con memoria interna de 32 GB que es expandible hasta 128 GB con una Micro SD. ZTE Blade A3 2020 es un dispositivo con tecnología 4G que viene desbloqueado y funciona con cualquier operador. Garantía de 365 días a partir de la fecha de compra  Información de Producto Nombre del modelo\tA3 2020 Operador inalámbrico\tTodas las empresas de transportes Marca\tZTE Factor de forma\tBarra Capacidad de almacenamiento de la memoria\t32 GB SO\tAndroid 9.0 GO Color\tGris Tecnología celular\t4G Año del modelo\t2021 Tamaño de la pantalla\t5.45 Pulgadas",
+      "price": 1700,
+      "is_avalible": "true",
+      "productImg": "./assets/img/4.png",
+      "rating": 3,
+      "vendor_name": "Zte",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 57,
+      "ProductName": "Xtreme PC Intel Core I3 10100 16GB SSD 120GB 2TB WiFi RGB",
+      "categoryID": "2",
+      "descriptions": "Intel Core i3-10100 con 4 núcleos y 8 hilos 3.60 GHz de velocidad y 4.30 velocidad turbo con 6 MB Intel Smart Cache, convirtiendo tu PC en una máquina para derrotar a tus oponentes. MEMORIA RAM 16GB DDR4 frecuencia de 2666MHz se encargaran de darle a tu equipo la potencia y la fuerza para correr tus programas y juegos favoritos UNIDAD DE ESTADO SOLIDO 120GB DISCO DURO MECANICO 2TB 7200rmp 256MB Cache Guarda todos tus juegos, música, archivos, fotos y programas Los potentes gráficos Intel UHD Graphics 630 proporcionan un rendimiento rápido, sin interrupciones y fluido. FUENTE DE PODER 600W cumple además con estrictos estándares de calidad para asegurar un uso prolongado en tu sistema de cómputo.  Tamaño de la memoria RAM instalada\t16 GB Modelo de CPU\tIntel Core i3 Marca\tXTREME PC GAMING Fabricante del CPU\tIntel Coprocesador de gráficos\tIntel UHD Graphics 630 Descripción del disco duro\tSSD + HDD Tipo de conectividad\tWi-Fi Método de enfriamiento\tAire Interfaz de disco duro\tATA Velocidad de CPU\t3.6 GHz",
+      "price": 10000,
+      "is_avalible": "false",
+      "productImg": "./assets/img/5.png",
+      "rating": 5,
+      "vendor_name": "Intel",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 58,
+      "ProductName": "Acer Aspire 5 A515-46-R14K Slim Laptop",
+      "categoryID": "2",
+      "descriptions": "Powerful Productivity: AMD Ryzen 3 3350U delivers desktop-class performance and amazing battery life in a slim notebook. With Precision Boost, get up to 3.5GHz for your high-demand applications Maximized Visuals: See even more on the stunning 15.6\" Full HD display with 82.58% screen-to-body, 16:9 aspect ratio and narrow bezels Backlit Keyboard and Fingerprint Reader: Biometric fingerprint reader and Windows Hello sign-in options help keep your Acer PC secure Internal Specifications: 4GB DDR4 on-board memory (1 slot available); 128GB NVMe solid-state drive storage (1 hard drive bay available) to store your files and media Acer's Purified.Voice technology, features enhanced digital signal processing to cancel out background noise, improve speech accuracy and far-field pickup, which not only makes calls clearer, but makes talking to Alexa easier than before. Using Alexa on your PC is as easy as asking a question. Just ask and Alexa can check your calendar, create lists, play music, answer questions, read the news and more. Secure Operating System: Windows 10 Home (S mode) comes with advanced security features built right in, like protections against phishing and malicious software so you don't have to think twice when navigating to a new webpage or downloading an app Series\tA515-46-R14K Marca\tAcer Usos específicos del producto\tPersonal, Negocios, Multimedia. Tamaño de la pantalla\t15.6 Pulgadas Sistema operativo\tWindows 10 S Entrada en la interfaz humana\tKeyboard Fabricante del CPU\tAMD Ryzen 3 Color\tPlateado Tecnología de conectividad\tWifi Tamaño del disco duro\t128 GB",
+      "price": 9670,
+      "is_avalible": "true",
+      "productImg": "./assets/img/6.png",
+      "rating": 4,
+      "vendor_name": "Aser",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 59,
+      "ProductName": "Panasonic Bluetooth Wireless Headphones",
+      "categoryID": "5",
+      "descriptions": "Premium wireless headphones includes voice assist to choose music, switch tracks, adjust volume and make and take calls. A single touch activates your smartphone's voice assist functions, such as Siri* Noise cancelling - switch on active noise canceling while commuting, travelling or anywhere to enjoy all the sounds you want to hear and tune out all the ones you don’t Dual 40mm neodymium driver units - deliver clear, powerful sound; acoustic bass control with bass Enhancer amplifies bass and trebles for clear, satisfying playback High-capacity battery - with a full charge, The headphones' High-capacity battery provides up to 24 hours of playback. A 15-minute quick charge keeps the music flowing for up to 2. 5 hours Retro modern style - lightweight design - 3 distinctive street-smart colors fashionably complement any look and style. Choose from matte black, vanilla White or indigo Navy  Marca\tPanasonic Color\tBlack Tipo de conector\tInalámbrico Nombre del modelo\tRP-HTX90N-W Factor de forma de los auriculares\tCircumaurales",
+      "price": 552,
+      "is_avalible": "true",
+      "productImg": "./assets/img/7.png",
+      "rating": 4,
+      "vendor_name": "Panasonic",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 60,
+      "ProductName": "Turn5 Portable Bluetooth Speaker",
+      "categoryID": "5",
+      "descriptions": "Calidad de sonido HiFi: el altavoz Bluetooth portátil tiene graves intensos, gran volumen sin interrupción de voz, efecto de sonido de 360 ° todo alrededor. Equipado con altavoz de alta calidad de 10 W. Aspecto suave y flexible que te da una gran experiencia visual. El sonido de alta frecuencia es transparente y brillante, la frecuencia media es clara y limpia y la baja frecuencia alcanza bastante baja pero potente con un sonido completo. Ofrece un sonido rico y un bajo mejorado que va mucho más allá de su tamaño. 【Bluetooth 5.0】: una nueva generación de tecnología Bluetooth 5.0, transmitida por la tecnología A2DP, tiene un menor consumo de energía que el Bluetooth 4.2, pero con una transmisión más rápida, una capacidad antiinterferencia más fuerte y una señal más estable sin ningún retraso. Este altavoz inalámbrico es compatible con múltiples dispositivos como tabletas, ordenadores portátiles, ordenadores de escritorio, televisores y teléfonos móviles. Resistente al agua y antidaños: diseño totalmente sellado con resistencia al agua IPX67 que no tiene miedo de la lluvia. Reproduce música con facilidad. Nunca estás solo para cantar en la ducha con el altavoz Bluetooth. También es antigolpes y antidaños. Incluso si el altavoz Bluetooth cae a 1,5 m de alto, todavía puede mantenerse intacto. Incluso se puede utilizar en entornos duros como lagos, bosques y desiertos. Batería de larga duración: pequeño en tamaño pero grande en capacidad. Equipado con batería de litio recargable integrada de 1800 mAh. Deja que disfrutes de la música sin ser ininterrumpido de día a noche. Satisface tus necesidades durante todo el día. Reproducción a volumen medio cuando está completamente cargada puede ofrecerte un viaje de música ininterrumpido de 18 horas. 【Tamaño mini portátil】: el pequeño altavoz Bluetooth portátil se puede llevar y disfrutar de tu escucha en cualquier lugar, añadiendo una maravillosa experiencia en tu viaje. La tecnología de tela de nailon resistente al desgaste y el cordón de silicona son fuertes y duraderos, lo que te permite colgar el altavoz en una mochila o bicicleta fácilmente. Adecuado para ocio, entretenimiento, oficina, interior, exterior, senderismo, playa, etc.  Tipo de conector\tInalámbrico Tipo de altavoz\tExterno Marca\tSANAG Nombre del modelo\tM7 Es impermeable\tVerdadero",
+      "price": 791,
+      "is_avalible": "true",
+      "productImg": "./assets/img/8.png",
+      "rating": 3,
+      "vendor_name": "Sanag",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 61,
+      "ProductName": "Cámara digital 4K 48MP VETEK Videocámara 16X",
+      "categoryID": "1",
+      "descriptions": "Cámara multifuncional para fotografía: esta cámara digital está equipada con una resolución máxima de 4K/30FPS (MP4) y 48MP (JPG), es la mejor opción para principiantes y aficionados a la fotografía de YouTube. Esta cámara de vlogging soporta zoom digital 16X, pausa de video, grabación mientras se carga, grabación en bucle, disparo continuo, grabación silenciosa, temporizador automático, una tarjeta SD micro de 32 GB. Cámara digital conectada \"Bluetooth\": la función WiFi de esta cámara de vlogs es la misma que el Bluetooth. La aplicación de descarga \"XCV PRO\" cambia tu teléfono inteligente en un control remoto en tiempo real para controlar la videocámara. Cuando termines de grabar, también es muy fácil descargar los videos grabados a tu teléfono inteligente y compartir en Ins y Facebook. Videocámara de enfoque manual 4K: esta cámara de video no solo toma fotos, sino también graba videos, sino que también tiene una función de enfoque automático (AF). Puedes utilizar el botón de la cámara para controlar el enfoque ya sea en el modo de cámara o en el modo de video. El marco del logotipo de enfoque aparecerá en la pantalla, deja que la cámara haga el enfoque para capturar tu sujeto en el momento exacto que desees. Regalo perfecto para principiantes: la cámara de vlogging viene con 2 baterías recargables, y soporta grabación mientras se carga, perfecta para tomar fotos durante mucho tiempo. También está equipado con una bolsa para cámara, correa para cámara, WiFi y enfoque manual. Esta es la mejor opción para aficionados y principiantes de viaje.   Marca\tVETEK Resolución de captura de video\t4K Tecnología de conectividad\tWi-Fi Formato de captura de video\tMP4 Tipo de lente\tZoom Tamaño de la pantalla\t3 Pulgadas Modos de disparo\tMacro Tipo de memoria flash\tSD",
+      "price": 4000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/9.png",
+      "rating": 4,
+      "vendor_name": "Vetek",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 62,
+      "ProductName": "COMISO Waterproof Bluetooth Speakers Outdoor Wireless Portable",
+      "categoryID": "5",
+      "descriptions": "Sonido cristalino de alta calidad: Distintos medios y agudos de nuestros dos controladores acústicos de precisión ofrecen un excelente sonido estéreo y graves mejorados gracias a nuestro diseño patentado de radiador de graves pasivos Volumen más fuerte, más graves: sin distorsiones al máximo volumen; sonido de llenado de habitación, perfecto para el hogar, dormitorio, cocina, baño, coche, fiestas; transmisión de música o servicios de radio por Internet como Pandora y Spotify desde tu smartphone, iPhone o dispositivo de audio Función estéreo inalámbrica: Gracias a la función estéreo inalámbrico verdadera, emparejar dos altavoces COMISO X26, puedes lograr una reproducción inalámbrica de Bluetooth para canales izquierdo y derecho separados de dos altavoces blutooth Solo tienes que controlar el dispositivo maestro estéreo inalámbrico verdadero, luego el audio se puede reproducir sincronizadamente en ambos dispositivos con un sonido estéreo doble mejorado Altavoz Bluetooth resistente al agua IPX5: a prueba de salpicaduras, a prueba de lluvia, al polvo, a prueba de arena; altavoz de ducha al aire libre, perfecto para la playa, piscina, coche, barco y carrito de golf. El altavoz con clasificación IPX5 puede resistir la pulverización de agua suave y salpicaduras pero no puede sumergirse parcial o completamente Ultra portátil: menos de 12 onzas, 6.5 pulgadas de alto, 2.8 pulgadas de diámetro; batería recargable de 4000 mAh de alta capacidad para hasta 36 horas de tiempo de reproducción a 2/3 volumen con una carga completa; diseñada para ser cómoda de llevar sin bordes cuadrados, mucho mejor para viajes y senderismo, superligera y fácil de colocar en tu bolsa o mochila  Tipo de conector\tBluetooth, USB Tipo de altavoz\tAl aire libre Marca\tCOMISO Modo de salida de audio\tEstéreo Color\tRose gold",
+      "price": 904,
+      "is_avalible": "true",
+      "productImg": "./assets/img/10.png",
+      "rating": 3,
+      "vendor_name": " Comiso",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 63,
+      "ProductName": "Dell Optiplex 7050",
+      "categoryID": "2",
+      "descriptions": "Procesador potente: configurado con procesador de la serie superior para un rendimiento rápido, fiable y consistente para garantizar una experiencia de PC excepcional. Almacenamiento y memoria superiores: personalizado con espacio de almacenamiento de disco duro SSD de 240 GB para almacenar aplicaciones, juegos, fotos, música y películas. Cargado con 16 GB de RAM para comprimir varias tareas en un apuro sin retraso. Conectividad integrada: mantente conectado a Internet con tecnología inalámbrica instalada y tarjeta de red integrada. Reproduce tus archivos de música favoritos con sonido estéreo. Conéctese fácilmente a monitores grandes y múltiples a través de las conexiones de vídeo integradas instaladas. WINDOWS 10 ÚLTIMA LIBERACIÓN - Una nueva instalación del último software de sistema operativo Microsoft Windows 10 Professional de 64 bits, libre de bloatware comúnmente instalado de otros fabricantes. Como el sistema operativo más reciente y mejor de Microsoft hasta la fecha, Windows 10 Professional 64 Bit maximizará la utilidad de cada PC en los próximos años. Software opcional, como Anti-Virus y Office 365, también se puede descargar fácilmente a través de Microsoft Windows App Store. Compra con confianza: todos los ordenadores Amazon Renewed vienen con una garantía de 90 días y soporte técnico para proporcionar a los clientes una calidad y cuidado inigualables.   Usos específicos del producto\tHogar, Negocios, Educación Series\tDell Optiplex 7050 SFF Tamaño de la memoria RAM instalada\t16 GB Sistema operativo\tWindows 10 Modelo de CPU\tIntel Core i5 Marca\tDell Fabricante del CPU\tIntel Año del modelo\t2018 Coprocesador de gráficos\tIntel Descripción del disco duro\tSSD",
+      "price": 6900,
+      "is_avalible": "true",
+      "productImg": "./assets/img/11.png",
+      "rating": 4,
+      "vendor_name": "Dell",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 64,
+      "ProductName": "Xtreme PC Intel Core I9 16GB SSD 240GB 3TB Monitor 27 WiFi",
+      "categoryID": "2",
+      "descriptions": "Los potentes gráficos Intel UHD 630, proporcionan un rendimiento rápido, sin interrupciones y fluido en los juegos que te apasionan, brindándote el alto rendimiento que necesitas para trabajos y juego sin límites. Intel Core i9-9900 con 8 núcleos y 16 hilos 3.10 GHz de velocidad y 5.00 GHz velocidad turbo con 16 MB Intel Smart Cache, convirtiendo tu PC en una máquina para derrotar a tus oponentes. MEMORIA RAM 16GB DDR4 frecuencia de 2666MHz se encargaran de darle a tu equipo la potencia y la fuerza para correr tus programas y juegos favoritos UNIDAD DE ESTADO SOLIDO 240GB SATA 2.5 DISCO DURO MECANICO 3TB 3.5” Guarda todos tus juegos, música, archivos, fotos y programas FUENTE DE PODER 700W certificada cumple además con estrictos estándares de calidad para asegurar un uso prolongado en tu sistema de cómputo.  Tamaño de la memoria RAM instalada\t16 GB Modelo de CPU\tCore i9 Marca\tXTREME PC GAMING Fabricante del CPU\tIntel Tamaño de la pantalla\t27 Pulgadas Coprocesador de gráficos\tIntel UHD Graphics 630 Descripción del disco duro\tSSD, HDD Color\tNegro Velocidad de CPU\t3.1 GHz",
+      "price": 25900,
+      "is_avalible": "true",
+      "productImg": "./assets/img/12.png",
+      "rating": 5,
+      "vendor_name": "Xtreme pc Gaming",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 65,
+      "ProductName": "BINDEN Drone Semiprofesional B20 EIS con Cámara 4K",
+      "categoryID": "4",
+      "descriptions": "CÁMARA 4K: Aprovecha la gran estabilidad digital (EIS) y toma los mejores videos o fotografías 4K con una resolución de hasta 3840*2160 (1080P/60FPS) y un sensor CMOS de 1/3 pulgadas, todo con tu dron con cámara B20. BATERÍA: Tus ojos en el cielo, la potente batería de tu drone tiene una capacidad de 3400mAh con la que podrás volar hasta por 22 minutos. Tu B20 también posee un nivel 4 de resistencia al viento. MOTOR: Demuestra tus habilidades sin dañar a tu dron gracias a su motor sin escobillas que lo vuelve más resistente, además podrás alcanzar velocidades de hasta 40km / h, y ascender hasta 115 metros de altura a una rapidez de 3m / s. CONTROL REMOTO: Ten siempre el control, vuela el drone hasta a 600 metros de distancia, y maneja las funciones inteligentes como: Regreso a casa (RTH), Modo sin Cabeza, Follow Me y muchas más. distancia, además cuenta con posicionamiento GPS/Óptico, Flujo/Barómetro.  Color: Black",
+      "price": 6759,
+      "is_avalible": "true",
+      "productImg": "./assets/img/13.png",
+      "rating": 5,
+      "vendor_name": "Biden",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 66,
+      "ProductName": "DJI Tello Drone, Distancia de Vuelo 100 m, Altura 10 m, color Blanco",
+      "categoryID": "4",
+      "descriptions": "Captura recuerdos con su cámara que tomará fotografías en formato JPG de 5 MP y videos MP4 en HD 720 a 30P Tiempo máximo de vuelo 13 minutos, Distancia máxima de vuelo 100 metros, Altura máxima de vuelo 10 metros Es un drone ligero que pesa solamente 80 gramos, asegurándote así que tendrás vuelos seguros y suaves Tiene funciones de seguridad que te protegerán contra posibles accidentes.al momento de estar volando.Incluye una alerta que te indicará cuando te estés quedando sin batería, dándote así un margen de tiempo para regresar a tu punto de partida Su procesador Intel te asegurará un funcionamiento óptimo que te brindará imágenes y videos de alta calidad Captura recuerdos con su cámara que tomará fotografías en formato JPG de 5 MP y videos MP4 en HD 720 a 30P Tiempo máximo de vuelo 13 minutos, Distancia máxima de vuelo 100 metros, Altura máxima de vuelo 10 metros Es un drone ligero que pesa solamente 80 gramos, asegurándote así que tendrás vuelos seguros y suaves Tiene funciones de seguridad que te protegerán contra posibles accidentes.al momento de estar volando.Incluye una alerta que te indicará cuando te estés quedando sin batería, dándote así un margen de tiempo para regresar a tu punto de partida  Marca\tDJI Nombre del modelo\tTELLO Color\tColor blanco Tipo de medios\tJPEG; DNG (RAW); JPEG + DNG; MP4/MOV (AVC/H.264; HEVC/H.265) Resolución de captura de video\tHD 720p",
+      "price": 2895,
+      "is_avalible": "true",
+      "productImg": "./assets/img/14.png",
+      "rating": 5,
+      "vendor_name": "Dji",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 67,
+      "ProductName": "HP Stream 14-cb Laptop Intel Celeron 4GB RAM",
+      "categoryID": "2",
+      "descriptions": "Intel Celeron N4000 Series - Procesador de doble núcleo (1.1 GHz (hasta 2.8 GHz Burst) / SDRAM DDR4-2400 de 4 GB / almacenamiento interno eMMC de 64 GB Microborde antirreflectante HD de 14 pulgadas, BrightView, 220 nits, 45 % NTSC (1366 x 768) Display/Intel UHD Graphics Cámara con micrófono digital integrado, multimedia multiformato, lector de tarjetas SD, Realtek 802.11ac (2x2) Wi-Fi y Bluetooth 5 Combo / Altavoces dobles incorporados / Teclado estilo isla de tamaño completo 2 USB 3.1 Gen 1 (solo transferencia de datos) / 1 USB 2.0; 1 HDMI 1.4 / 1 combo de auriculares/micrófono Adaptador de corriente de CA inteligente de 45 W / 3 celdas, 41 Wh. Batería Li-ion / Windows 10 Home in S / Office 365 Personal 1 año  Series\tHP Stream Marca\tHP Tamaño de la pantalla\t14 Pulgadas Sistema operativo\tWindows 10 Entrada en la interfaz humana\tMicrophone, Keyboard Fabricante del CPU\tIntel Tecnología de conectividad\tBluetooth, USB, HDMI, Wifi Tamaño del disco duro\t64 GB Recuento de procesadores\t2 Modelo de CPU\tIntel Celeron",
+      "price": 5435,
+      "is_avalible": "true",
+      "productImg": "./assets/img/15.png",
+      "rating": 5,
+      "vendor_name": "HP",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 68,
+      "ProductName": "Lenovo Tab P11 Plus, Tableta Android 2K de 11 Pulgadas, procesador Octa-Core",
+      "categoryID": "3",
+      "descriptions": "Experimente una transmisión superior con la impresionante resolución 2K en la pantalla TDDI IPS de 11\" Encuentra una conexión más profunda con todas las canciones, historias y espectáculos que te gustan con Dolby Atmos en cuatro altavoces en la Lenovo Tab P11 Plus Experimenta menos retraso mientras juegas o navega a través del procesador MediaTek Helio G90T Tab Octa-Core con frecuencia principal de hasta 2,05 GHz. Multitarea sin problemas con 4 GB de RAM. Haz más mientras estás lejos de los tomacorrientes, ya que la Tab P11 Plus puede jugar hasta 15 horas* con una sola carga de la batería de 7700 mAh. Haz más mientras estás fuera de casa, ya que la Tab P11 Plus funciona con hasta 15 horas de tiempo de transmisión con una sola carga de la batería de 7700 mAh.  Series\tTab P11 Plus Marca\tLenovo Tamaño de la pantalla\t11 Pulgadas Sistema operativo\tAndroid Capacidad de almacenamiento de la memoria\t128 GB",
+      "price": 5999,
+      "is_avalible": "true",
+      "productImg": "./assets/img/16.png",
+      "rating": 4,
+      "vendor_name": "Lenovo",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 69,
+      "ProductName": "Motorola Moto G Stylus",
+      "categoryID": "6",
+      "descriptions": "Desbloqueado para la libertad de elegir su transportista. Compatible con redes AT&T, Sprint, T-Mobile y Verizon. Tarjeta SIM no incluida. Es posible que los clientes necesiten ponerse en contacto con Sprint para activarse en la red de Sprint. Lápiz capacitivo integrado. Retoque fotos, anote notas, dibuje ilustraciones y controle un número creciente de juegos y todas las aplicaciones con precisión precisa. Sistema de 48 MP de cuatro cámaras. Muestra tu creatividad desde cualquier perspectiva, desde tomas de ángulo ultra amplio hasta primeros planos detallados y todo lo demás. Rendimiento más rápido y suave. Siente la respuesta instantánea con cada toque y toque del lápiz gracias al procesador Qualcomm Snapdragon 678. 128 GB de almacenamiento. Llevar más fotos, canciones, juegos y películas y nunca pensar en el almacenamiento. Max Vision FHD de 6,8 pulgadas. Mira tus fotos, películas y chats de vídeo cobran vida en la pantalla de moto g más grande de la historia. Hasta 2 días de duración de la batería. Vaya más tiempo con una sola carga con una batería de 4000 mAh. Sistema operativo: Android 10 Wi-Fi Hotspot Ready: Moto G Power (2021) ofrece conectividad Wi-Fi hotspot en 2,4 GHz, 5 GHz para la mejor experiencia. En caja: Moto G Stylus (2021), cargador rápido de 10 W, cable USB, guías, herramienta SIM  Nombre del modelo\tMoto G stylus | 2021| Unlocked | Made for US by Motorola | 4/128GB | 48MP Camera | White Operador inalámbrico\tDesbloqueado Marca\tMotorola Factor de forma\tBarra Capacidad de almacenamiento de la memoria\t128 GB Sistema operativo\tAndroid 10.0 Color\tBlanco Tecnología celular\t4G Año del modelo\t2021 Tamaño de la pantalla\t6.8 Pulgadas",
+      "price": 5700,
+      "is_avalible": "true",
+      "productImg": "./assets/img/17.png",
+      "rating": 4,
+      "vendor_name": "Motorola",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 70,
+      "ProductName": "Motorola Smartphone One Hyper 128GB",
+      "categoryID": "6",
+      "descriptions": "Modelo\t‎XT2027-1 Número de parte\t‎XT2027-1 Capacidad de almacenamiento de la memoria\t‎128 GB Tama�o de memoria flash instalada\t‎128 GB Tamaño del área de visualización de la pantalla con pie\t‎6.5 Pulgadas Baterías incluidas\t‎No Baterías necesarias\t‎No Composición de celdas de batería\t‎Litio Ion Factor de forma\t‎Smartphone    Operador inalámbrico\tT-Mobile Marca\tMotorola Factor de forma\tSmartphone Capacidad de almacenamiento de la memoria\t128 GB Color\tMorado Tamaño de la pantalla\t6.5 Pulgadas Fabricante\tMotorola",
+      "price": 5690,
+      "is_avalible": "true",
+      "productImg": "./assets/img/18.png",
+      "rating": 4,
+      "vendor_name": "Motorola",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 71,
+      "ProductName": "Nokia G20 | Android 11 | Smartphone",
+      "categoryID": "6",
+      "descriptions": "Haz lo que te gusta durante más tiempo con hasta 3 días de duración de la batería. Descubra el diseño nórdico puro, elegante e increíblemente práctico. Vea cada detalle – sea cual sea la hora del día – con un brillo mejorado. Disfruta de las últimas funciones de Android 11 con hasta 2 años de actualizaciones del sistema operativo. El producto es compatible con portadores GSM como AT&T, T-Mobile, Mint, y otros portadores GSM. El producto no es compatible con Verizon. Sé la clave de tu mundo con funciones de seguridad avanzadas.  Nombre del modelo\tG20 Operador inalámbrico\tDesbloqueado Marca\tNokia Factor de forma\tBarra Capacidad de almacenamiento de la memoria\t512 GB Sistema operativo\tAndroid 11 Color\tNoche Polar Tecnología celular\tLTE Año del modelo\t2021 Tamaño de la pantalla\t6.52 Pulgadas",
+      "price": 4900,
+      "is_avalible": "true",
+      "productImg": "./assets/img/19.png",
+      "rating": 3,
+      "vendor_name": "Nokia",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 72,
+      "ProductName": "Nubia Red Magic 5S 5G",
+      "categoryID": "6",
+      "descriptions": "Teléfono Nubia RedMagic 5S, 1080 x 2340 píxeles, relación 19.5:9, luz azul baja, certificación TUV Rheinland baja luz azul, alta tasa de actualización de 144HZ, suave sin manchas. Disfruta de una experiencia más suave. 128/256 GB UFS3.0-LANE, Qualcomm SM8250 Snapdragon 865 (7 nm+) CPUOcta-core (1x2.84 GHz Kryo 585 y 3x2.42 GHz Kryo 585 y 4x1.8 GHz Kryo 585), ejecutando Android 12 0,0 g. PU Adreno 650, Nubia RedMagic 5S proporciona una experiencia de juego divertida y efectos, funcionando sin problemas y gran espacio de almacenamiento. 64 megapíxeles (f/1.8) + 8 megapíxeles + 2 megapíxeles, soporta resolución 8K a 15 fps, 4K a 60 fps/30 fps, 1080P a 60 fps/30 fps, 720P a 30 fps; cámara frontal: 8 megapíxeles (f/2.0), 10 720P a Grabación de vídeo de 30 fps. Increíbles colores realistas y contraste, mapeo de tono dinámico. Lector de huellas dactilares trasero cómodo y rápido. Carga rápida, sorprendentemente carga rápida de 55 W. Tiene un ventilador con una velocidad de hasta 15.000 y una vida útil de 30.000 horas, lo que significa que juegas 3 horas de juegos al día y puedes usarlo durante 27 años. Sistema de refrigeración turbo líquido activo integrado 3.0 para lograr la más alta disipación de calor y el consumo de batería de larga duración. NOTA: Modelo internacional – No hay garantía en Estados Unidos; Compatible con la mayoría de los operadores GSM como T-Mobile, AT&T, MetroCS, etc. No funciona con operadores CDMA como Verizon, Sprint, Boost.  Operador inalámbrico\tT-Mobile, Desbloqueado Marca\tRed Magic Factor de forma\tSmartphone Capacidad de almacenamiento de la memoria\t128 GB SO\tAndroid 10.0 Color\tPlateado (Sonic Silver) Tecnología celular\t5G, 2G Tamaño de la pantalla\t6.65 Pulgadas Fabricante\tNubia Otras funciones de la cámara\tTrasera, Frontal",
+      "price": 14025,
+      "is_avalible": "true",
+      "productImg": "./assets/img/20.png",
+      "rating": 5,
+      "vendor_name": "Nubia",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 73,
+      "ProductName": "Pantalla Samsung 43' Crystal UHD",
+      "categoryID": "9",
+      "descriptions": "Crystal Processor 4K Processor. El mapeo de color 3D permite optimizar y combinar perfectamente cada tono. la potente conversión 4K garantiza que se obtenga una resolución 4K realista, sin importar la fuente Dynamic Crystal Color+. Colores realistas en estado puro Diseño AirSlim. Pantalla ultrafina Motion Xcelerator. Imágenes mas rapidas y de mejor calidad de imagen Asistentes de voz integrados en tu TV Número de puertos HDMI: 3; Tamaño de pantalla: 43.0 inches; Tipo de conectividad: Bluetooth; Tecnología de pantalla: LED; Tipo de pantalla: LED  Tamaño de la pantalla\t43 Pulgadas Tipo de conector\tBluetooth, USB, HDMI Marca\tSAMSUNG Resolución del escáner\t4K Tecnología de la pantalla\tLED Frecuencia de actualización\t120 Característica especial\t3D, Smart TV, Ultra High Definition Año del modelo\t2021 Color\tBLACK Tecnología de comunicación inalámbrica\tBluetooth",
+      "price": 10299,
+      "is_avalible": "true",
+      "productImg": "./assets/img/21.png",
+      "rating": 4,
+      "vendor_name": "Samsung",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 74,
+      "ProductName": "Hisense 32” 720p Televisor HD Pantalla LED TV Roku Smart",
+      "categoryID": "9",
+      "descriptions": "RokuTV: Aplicaciones como Netflix, YouTube, PrimeVideo, Disney+ y más en calidad de 1080p. Conecte sus dispositivos como XBOX, PLAY STATION, BLU RAY, DVD Resolución de 1080p para impresionantes imágenes HD Vea películas en Blu-ray y contenido HD de 1080p en su más alto nivel de detalle. Y SU CABLE DE TELEVISION. RokuTV: Aplicaciones como Netflix, YouTube, PrimeVideo, Disney+ y más en calidad de 1080p. Conecte sus dispositivos como XBOX, PLAY STATION, BLU RAY, DVD Y SU CABLE DE TELEVISION. Con una pantalla de inicio simple, control remoto fácil de usar y actualizaciones automáticas, Roku TV es un televisor inteligente que es fácil de usar y adorar. Busque por título, actor o director para ver dónde puede transmitir programas de forma gratuita o al menor costo. Sonido impresionante y detallado Quedará impresionado por el sonido completo y detallado del DTS TruSurround integrado 140 / 5000 Translation results Juegos más rápidos El modo de juego ofrece una latencia súper baja que reduce el retraso de entrada, por lo que las señales viajan más rápido desde los dedos hasta el movimiento en la pantalla.  Tamaño de la pantalla\t32 Pulgadas Servicios de Internet compatibles\tNetflix, Pandora, Hulu, Amazon Prime Video, Youtube, Vudu, Disney+ Tipo de conector\tWi-Fi Marca\tHisense Resolución del escáner\t1080p, 720p Tecnología de la pantalla\tLED Frecuencia de actualización\t60 Hz Característica especial\tHD Compatible, Certificación DLNA, Wi-Fi, Blu-Ray Tecnología de comunicación inalámbrica\tWifi",
+      "price": 4499,
+      "is_avalible": "false",
+      "productImg": "./assets/img/22.png",
+      "rating": 3,
+      "vendor_name": "Hisense",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 75,
+      "ProductName": "Sheer 10.2\" Tablet With Wi-Fi , 32GB",
+      "categoryID": "6",
+      "descriptions": "Increíble pantalla Retina de 10.2 pulgadas Chip A12 Bionic con Neural Engine Compatible con Apple Pencil (primera generación) y Smart Keyboard Cámara trasera de 8 MP y cámara frontal FaceTime HD de 1.2 MP Bocinas estéreo  Nombre del modelo\tIPad Marca\tApple Tamaño de la pantalla\t10.2 Pulgadas Sistema operativo\tIOS 12 Capacidad de almacenamiento de la memoria\t32 GB",
+      "price": 12499,
+      "is_avalible": "true",
+      "productImg": "./assets/img/23.png",
+      "rating": 4,
+      "vendor_name": "Apple",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 76,
+      "ProductName": "Samsung A7 Tablet 10.4 Wi-Fi 32 GB gris",
+      "categoryID": "3",
+      "descriptions": "Color name: Gris  Size name: 32 GB SSD  Configuration: Tablet  Series\tA7 Tablet 10.4 Wi-Fi Marca\tDesconocido Tamaño de la pantalla\t10.4 Pulgadas Sistema operativo\tAndroid Q Capacidad de almacenamiento de la memoria",
+      "price": 4542,
+      "is_avalible": "true",
+      "productImg": "./assets/img/24.png",
+      "rating": 1,
+      "vendor_name": "Samsung",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 77,
+      "ProductName": "Microsoft Surface Go 2 Pantalla táctil Intel Pentium",
+      "categoryID": "3",
+      "descriptions": "Pantalla táctil PixelSense de 10.5 pulgadas, procesador Intel Pentium 4425Y de doble núcleo de 1.6 GHz Resolución de pantalla de 1800 x 1200 (216 ppi), 4 GB de RAM, 64 GB de almacenamiento SSD Intel HD Graphics 615 integrado, lector de tarjetas multimedia MicroSD, superficie más ligera hasta la fecha, a partir de solo 1 libras. Wi-Fi 5 (802.11ac) | Bluetooth 4.1, 8MP cámara trasera | 5MP cámara frontal USB tipo C | Conector de auriculares de 3.5 mm, duración de la batería todo el día, con hasta 9 horas de energía desconectada, Windows 10  Series\tSrfc Prjct V-5 SC EN/XD US/Canada Hdwr Platinum Marca\tMicrosoft Tamaño de la pantalla\t10.5 Pulgadas Sistema operativo\tWindows Capacidad de almacenamiento de la memoria\t64 GB",
+      "price": 7140,
+      "is_avalible": "true",
+      "productImg": "./assets/img/25.png",
+      "rating": 4,
+      "vendor_name": "Microsoft",
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Lenovo Tab M10 Plus, Tableta Android FHD de 10.4 Pulgadas",
+      "categoryID": "3",
+      "descriptions": "Aspecto y tacto premium con cubierta trasera de metal y biseles delgados y estrechos. Disfruta de tus vídeos favoritos en el 10. Pantalla FHD de 3 pulgadas con tecnología TDDI Procesador Octa-Core rápido y potente con frecuencia principal de hasta 2,3 GHz para un rendimiento rápido No te pierdas ni un momento con las cámaras traseras de 8 MP + 5 MP, micrófonos duales y 2 altavoces laterales sintonizados con Dolby Atmos El modo infantil incluye contenido dedicado para niños, con control de padres y protección ocular especializada. Alertas de postura y entorno con baches también disponibles Manténgase conectado con Wi-Fi 802.11 a/b/g/n/ac, banda dual de 2,4 GHz y 5 GHz, y Bluetooth 5. 0  Series\tTab M10 FHD Plus Marca\tLenovo Tamaño de la pantalla\t10.3 Pulgadas Sistema operativo\tAndroid 9 Pie Capacidad de almacenamiento de la memoria\t32 GB",
+      "price": 4428,
+      "is_avalible": "true",
+      "productImg": "./assets/img/26.png",
+      "rating": 3,
+      "vendor_name": "Lenovo",
+      "id": 78,
+      "distribuidor": "Erus"
+    },
+    {
+      "ProductName": "Sheer Pro 7.9-Inch Mini Tablet",
+      "categoryID": "3",
+      "descriptions": "EYE CARE : Alcatel utilizó cantidades masivas de datos de investigación para desarrollar una pantalla que sea segura y cómoda para sus ojos. El modo de protección ocular reduce la luz azul dañina para que sea más seguro y fácil de leer. GROWTH HAPPIER: Sistema de aprendizaje para niños KIDOMI incorporado, recursos educativos de alta calidad, los niños pueden aprender jugando. Asignado a los estándares educativos básicos comunes de EE. UU. PARENT TRUST KIDS LEARNING: permiso de los padres con CONTRASEÑA, Gestionar el tiempo de estudio y descanso de los niños. SISTEMA KIDOMI: Los consumidores pueden usar todas las aplicaciones de kidomi de forma gratuita en 30 días, y 25 aplicaciones siempre son gratuitas. (suscripción dentro de kidoz mensual o anual) +3000 Juegos, + 2,500 Videos Familiare  Series\tAlcatel Kids 8052 Marca\tAlcatel Tamaño de la pantalla\t7 Pulgadas Sistema operativo\tAndroid 9 Pie Capacidad de almacenamiento de la memoria\t16 GB",
+      "price": 1599,
+      "is_avalible": "true",
+      "productImg": "./assets/img/27.png",
+      "rating": 4,
+      "vendor_name": "Alcatel",
+      "id": 79,
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 80,
+      "ProductName": "Lenovo Tab M10 Plus, Tableta Android FHD",
+      "categoryID": "6",
+      "descriptions": "Aspecto y tacto de alta calidad con cubierta trasera de metal y biseles delgados y estrechos. Disfruta de tus videos favoritos en la pantalla FHD de 11 pulgadas con tecnología TDDI Procesador Octa-Core rápido y potente con frecuencia principal de hasta 2.3 GHz para un rendimiento rápido Nunca te pierdas un momento con cámaras traseras de 8 MP más cámaras frontales de 5 MP, micrófonos duales y 2 altavoces laterales sintonizados con Dopoundsy Atmos El modo infantil incluye contenido dedicado para niños, con control de padres y protección ocular especializada. Alertas de ambiente y postura también disponibles Mantente conectado con Wi-Fi 802.11 a/b/g/n/ac, 2.4 GHz y 5 GHz Dual Band, y Bluetooth 5.0  Series\tTab M10 FHD Plus Marca\tLenovo Tamaño de la pantalla\t11 Pulgadas Sistema operativo\tAndroid 9 Pie Capacidad de almacenamiento de la memoria\t64 GB",
+      "price": 3551,
+      "is_avalible": "true",
+      "productImg": "./assets/img/28.png",
+      "rating": 4,
+      "vendor_name": "Lenovo",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 81,
+      "ProductName": "Corr Playtime 10.3\", 32GB With Wi-Fi",
+      "categoryID": "6",
+      "descriptions": "2 Unidades Protector de Pantalla de Vidrio Temperado compatibles con Lenovo Tab P10 TB X705F 10.1 Dureza de 9H, 3 veces más duro que la película de PET normal, ofrece una protección eficaz contra rasguños y objetos cortantes. Cuando se enfrenta a fuertes impactos o roturas, éste vidrio de nano tecnología se rompe en trozos pequeños que se mantienen dentro de la película con seguridad y sin bordes puntiagudos expuestos. El recubrimiento oleofobico de nano tecnología ayuda a resistir los aceites y las huellas dactilares, manteniendo la pantalla libre de manchas, con las huellas dactilares, marcas de manchas o restos de aceite fácilmente limpiados. Muy fácil instalación, la nueva tecnología automática de adhesivos proporciona una adhesión que se propaga de forma automática con un simple limpiado a través de la superficie. La transparencia clara HD del 99% conserva la experiencia de pantalla táctil original para una claridad extrema que protege. Tacto suave delicado con absoluta ninguna interferencia en la pantalla táctil. Garantía de por vida: Confiamos tanto en este caso de USTIYA que brindamos garantía de por vida incondicional. Asegura el disfrute prolongado de su compra. Por favor contáctenos con cualquier pregunta o inquietud - Estamos aquí para ayudarlo.  Dispositivos compatibles\tTeléfono celular, Tablet Modelos de teléfonos compatibles\tLenovo P10 Material\tVidrio templado Marca\tUSTIYA Descripción de la superficie de la pantalla\tSuave",
+      "price": 299,
+      "is_avalible": "true",
+      "productImg": "./assets/img/29.png",
+      "rating": 1,
+      "vendor_name": "Lenovo",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 82,
+      "ProductName": "Studio 8 Portable Bluetooth Speaker",
+      "categoryID": "5",
+      "descriptions": "Potencia: 50 W R.M.S Voltaje: 19 V/ 2A Frecuencia: 50 Hz - 20 kHz (-6dB) Bluetooth: 4.2 Batería de 8 Horas  Tipo de conector\tBluetooth Marca\tHarman Kardon Modo de salida de audio\tEstéreo Color\tNegro Dimensiones del artículo Largo x ancho x alto\t16 x 26.8 x 30.2 centimeters",
+      "price": 1500,
+      "is_avalible": "true",
+      "productImg": "./assets/img/30.png",
+      "rating": 3,
+      "vendor_name": "Harman Kardon",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 83,
+      "ProductName": "Samsung Galaxy Buds Pro - Audífonos inalámbricos",
+      "categoryID": "5",
+      "descriptions": "Cancelación inteligente de ruido activa: Escapa y sintoniza tu propio momento de Zen, todo con un solo toque; responde llamadas y cambia al instante a hablar con detección de voz y deja entrar los sonidos que más importan con 4 niveles ambientales Sonido de alta calidad: revive los recuerdos de cada ritmo de tu canción favorita con un woofer de 11 mm y tweeter de 6,5 mm. Control de música táctil: controla tu lista de reproducción; salta canciones, lanza música y responde llamadas tocando tus cogollos Entrenamientos resistentes al agua: el agua no arruinará tu entrenamiento; tu Galaxy Buds Pro resistente al agua IPX7 puede mantener el ritmo en marcha incluso con un poco de lluvia; incluso están protegidos para inmersión de hasta 3 pies de profundidad durante media hora Llamadas cristalinas: no importa dónde estés, mantente conectado ya sea que sea dueño de esa reunión virtual o ponerse al día con un amigo; nuestro nuevo diseño reduce el ruido de fondo, por lo que tu voz llega a través de voz fuerte y clara Batería de larga duración: consigue el zumo que necesitas para atascarte durante horas; funda de carga inalámbrica incluida, y también puedes compartir la batería de tu teléfono colocando tus auriculares en la parte posterior de tu dispositivo Galaxy compatible para cargar sobre la marcha  Marca\tSAMSUNG Color\tNegro Tipo de conector\tInalámbrico Factor de forma de los auriculares\tIntraurales Control de ruido\tAnnulation du bruit active",
+      "price": 1560,
+      "is_avalible": "true",
+      "productImg": "./assets/img/31.png",
+      "rating": 4,
+      "vendor_name": "Samsung",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 84,
+      "ProductName": "Proyector nativo 1080P, proyector WiFi",
+      "categoryID": "9",
+      "descriptions": "【Proyector nativo 1080P compatible con reproducción de video 4K】 Con una relación de contraste de 10000: 1 y 1920X1080 nativo, OSEVEN Q6 proporciona imágenes HD nítidas y detalladas, nativo resolución superior al 99% proyector. Combina una innovadora lente de vidrio de 6 capas de alta refracción, lo que garantiza la mejor experiencia de video. 【Conexión inalámbrica WiFi y USB】: El proyector OSEVEN Q6 WiFi puede reflejar películas / videos / fotos / juegos desde su teléfono inteligente a la pantalla grande mediante WiFi o cable USB directamente (NO ES NECESARIO COMPRAR CABLES ADICIONALES). 【DISPOSITIVOS COMPATIBLES】 Este proyector portátil es muy versátil y tiene HDMI, AV, VGA, puerto de tarjeta SD, lo que le permite usarlo con Laptop, PC, TV Box, TV Stick, Roku, Chrome Book, Tablets, Blue-ray DVD reproductor, tarjeta MICRO SD, unidad flash USB, reproductores multimedia (música, imágenes, video), teléfonos inteligentes. 【Sonido estéreo HIFI y último sistema de enfriamiento avanzado】 El proyector LED tiene altavoces estéreo duales de 3 W incorporados con sistema de sonido SRS que brinda una excelente experiencia de detección auditiva sin altavoces externos. Se actualizó un sistema de enfriamiento avanzado y silencioso con 3 ventiladores funcionando simultáneamente. 【OSEVEN PROYECTOR】 OSEVEN se especializa en la producción y desarrollo de proyectores, enfocándose en brindar productos y servicios, si tiene algún problema, por favor contáctenos a través de la plataforma Amazon.\"OSEVEN\" es una marca de proyector registrada, asegúrese de venderla por \"OSEVEN\" antes de comprar.  Marca\tOSEVEN Resolución de la pantalla\t1920 x 1080 Resolución máxima de la pantalla\t4K Pixels",
+      "price": 4000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/32.png",
+      "rating": 4,
+      "vendor_name": "Oseben",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 85,
+      "ProductName": "Barras de Sonido para TV",
+      "categoryID": "8",
+      "descriptions": "Versión mejorada del estéreo de lujo, 4 altavoces, sonido envolvente estéreo 3D, el efecto es absolutamente impresionante Admite conexión Bluetooth, totalmente compatible con la mayoría de los dispositivos Bluetooth, reproducción inalámbrica, haga lo que quiera Apoyo en la reproducción del disco de U. También puede reproducir audio desde su teléfono u otro dispositivo a través del cable de audio Incorporado para procesador de sonido DSP, claro y sin ruido Fácil de conectar y fácil de operar   Tipo de conector\tRCA, Bluetooth, Infrarrojo Tipo de altavoz\tSonido envolvente, Barra de sonido Marca\tEboxer Configuración de canales de sonido envolvente de los altavoces\t2.0 Color\tDefault",
+      "price": 1549,
+      "is_avalible": "true",
+      "productImg": "./assets/img/33.png",
+      "rating": 4,
+      "vendor_name": "Eboxer",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 86,
+      "ProductName": "SAMSUNG Monitor Gaming 29'",
+      "categoryID": "9",
+      "descriptions": "Experiencia de Juego Inmersivo, Free-sync (AMD): Brinda una respuesta de juego sin Tearing. La velocidad de escaneo del contenido del juego y el monitor se sincroniza en tiempo real. Game mode: Experiencia de juego con optimización en el contraste, los colores y las sombras. Lo que te permitirá un fácil reconocimiento de tus enemigos en los lugares más oscuros. 75hz Refresh Rate te brinda imágenes más fluidas a comparación de los monitores que solo manejan 60hz. Esto se ve reflejado en una transición de imágenes en movimiento más suaves y mayor nitidez. Flicker Free & Eye Saver Mode: Un descanso para tus ojos, la tecnología Flicker Free reduce el parpadeo de la pantalla para que tus ojos descansen, permitiéndote así trabajar o jugar durante más tiempo. De esta forma, reducirás la fatiga visual y disfrutarás de una mejor experiencia inmersiva Con los puertos HDMI & D-sub podrás conectar múltiples dispositivos al mismo tiempo. Esto ayuda a nuestros clientes a crear un ambiente más productivo.   Frecuencia de actualización\t75 Hz Marca\tSAMSUNG Tamaño de la pantalla\t24 Pulgadas Interfaz de hardware\tHDMI Tecnología de conectividad\tD-Sub, HDMI",
+      "price": 3284,
+      "is_avalible": "true",
+      "productImg": "./assets/img/34.png",
+      "rating": 4,
+      "vendor_name": "Samsung",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 87,
+      "ProductName": "BINDEN Smartwatch P8 PRO Reloj Inteligente con Termómetro",
+      "categoryID": "8",
+      "descriptions": "Los proveedores cualificados de Amazon han inspeccionado, probado y limpiado profesionalmente este producto usado. - No habrá imperfecciones superficiales visibles cuando el producto se sostenga a un brazo de distancia. - Los productos con baterías superarán el 80 % de capacidad en comparación con uno nuevo. Es posible que los accesorios no sean originales, pero serán compatibles y totalmente operativos. Es posible que el producto venga en una caja genérica. - Este producto viene con una garantía de 90 días respaldada por el proveedor. Ver los términos aquí.   Marca\tBINDEN Color\tBlack Tipo de conector\tBluetooth Sistema operativo\tAndroid Wear Característica especial\tNotificaciones Nivel de resistencia al agua\tImpermeable Composición de las celdas de batería\tLitio",
+      "price": 799,
+      "is_avalible": "true",
+      "productImg": "./assets/img/35.png",
+      "rating": 4,
+      "vendor_name": "Binden",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 88,
+      "ProductName": "FitWatch Fitness Smart Watch",
+      "categoryID": "8",
+      "descriptions": "【SMARTWATCH LLAMADAS】Conecte el reloj inteligente al teléfono móvil a través de Bluetooth, smartwatch puede contestar llamadas, hacer llamadas y rechazar llamadas, etc. También puede contestar el teléfono en cualquier momento cuando esté corriendo, en bicicleta o haciendo ejercicio, para no perder ninguna llamada. También puede controlar el reproductor de música de su teléfono en smartwatch (canción anterior, siguiente canción，pausa y ajuste de volumen) . 【FUNCIÓN DE NOTIFICACIÓN DE MENSAJES】Cuando Facebook, WhatsApp, LinkedIn, Instagram, Twitter reciben información, vibrará y se mostrará en el reloj, le recordará que lea el mensaje, para que nunca se pierda nada importante.También puede configurar más funciones.Por ejemplo, esfera de reloj personalizada,cronómetro, recordatorio de agua potable, recordatorio sedentario y despertador, etc. 【VARIOS MODOS DEPORTIVOS Y MONITORES DE SALUD】Proporciona múltiples modos deportivos,como correr,escalar,bailar, cinta de correr, bádminton,spinning,yoga, fitness,ciclismo,tenis,saltar,baloncesto,fitness, fútbol, tenis de mesa ect.Haz tu formación más científica.Puede detectar la frecuencia cardíaca,la presión arterial,el oxígeno en sangre y el monitor de sueño etc. Le permite mejorar sus hábitos de sueño,para ayudarlo a desarrollar un estilo de vida más saludable. 【PANTALLA DE 1,69 PULGADAS Y PRUEBA DE AGUA IP67】Adopte Pantalla a color táctil completa de 1.69 pulgadas, brinda una mejor experiencia visual más .IP67 Impermeable prueba se pueden lavar, a prueba de sudor o lluvia,Puede usar el reloj para lavarse las manos, caminar bajo la lluvia, correr, andar en bicicleta, hacer ejercicio etc.Puede acompañarle perfectamente en la vida diaria. 【LARGA DURACIÓN Y COMPATIBILIDAD】 El diseño de la batería con gran capacidad y bajo consumo de energía proporciona una vida útil más larga. Se puede utilizar normalmente durante 3-5 días y el tiempo de espera es de 15 días.Es conveniente para cargarlo con un cable de carga magnético USB. El reloj inteligente es compatible con la mayoría de los teléfonos inteligentes. Conecte el reloj inteligente al teléfono a través de la APLICACIÓN \"FunKeep\" y configure más funciones en la APLICACIÓN.   Aplicación compatible\tRastreador de fitness Marca\tDAQI Color\tNegro + Azul Tipo de conector\tUSB Sistema operativo\tAndroid Wear Color de la banda\tNegro Dispositivos compatibles\tSmartphone Característica especial\tMonitor de sueño, Despertador, Reproductor de música Nivel de resistencia al agua\tImpermeable",
+      "price": 599,
+      "is_avalible": "true",
+      "productImg": "./assets/img/36.png",
+      "rating": 4,
+      "vendor_name": "DAQI",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 89,
+      "ProductName": "Auriculares de realidad virtual 3D, gafas de realidad virtual con auriculares Bl",
+      "categoryID": "8",
+      "descriptions": "Auriculares Bluetooth recargables y plegables: estas gafas de realidad virtual incluyen un par de auriculares Bluetooth en los laterales de las gafas de realidad virtual que también son plegables. Es compatible con sistemas iOS y Android y PC Teatro IMAX privado: con auriculares HIFI plegables suaves y cómodos, puedes convertir fácilmente tu smartphone en una pantalla de cine 3D IMAX, sumergirte en la realidad virtual en cualquier momento que quieras (la película debe ser vídeos 3D (formato izquierda-derecha) para disfrutar del impactante efecto 3D. solo busca la palabra clave \"VR\", encontrarás que hay más de 300 aplicaciones de realidad virtual en Apple App Store y Google Play Store para que puedas descargar y disfrutar) Compatibilidad: más reciente 3D VR auriculares / VR caja de gafas tanto para smartphones iOS / Android/PC de 4.7 – 6.2 pulgadas como iPhone 12/12 Pro/12 mini/11 Pro Max/11 Pro/11/XS/XR/X/10/8/8+/7/7+/6S+/6+/6S/6, Samsung Galaxy S10/S10/S10/S10/S10/S10/S10/S110/S11. 0e/S10. +/S9+/S9/S8/S7 Edge+/S7 Edge/S7/S6e +/S6e/S6(Active/Prime), Note 10+/10/9/8/5/4/3/2, A10e/A10/A20/A50/A51/A3/A5/A7/J2/J6+/7, BLU Advance 5.2/A4/R2 Plus/Vivo Go/Dash XL X8, LG G8 thinq K51 G5/6/7/8, V20/V30/G Stylo/Stylo 2/3/5, Google Pixel 5/4/3/2 XL 4A 3A, Moto, Sony, HTC ETC Fácil instalación: obtiene vídeo 3D (formato izquierda-derecha) descargado en tu teléfono móvil y reproduce, coloca tu smartphone en la realidad virtual fácilmente (los clips de fijación incorporados mantendrán tu smartphone firmemente en la caja de auriculares VR), ajusta la diadema, PD y OD, auriculares de acuerdo a tu propia necesidad, entonces has comenzado tu gran viaje al maravilloso mundo de la realidad virtual 3D. Compañía ideal para viajar/relajarse/entretenimiento, ahorra tiempo y dinero de ir a la película Gran regalo ideal para todos: tanto niños como adultos: diseño moderno y cómodo de llevar, banda para la cabeza fácilmente ajustable, distancia de objetos y pupila, auriculares plegables para satisfacer las necesidades de todas las personas. Además, se puede usar sin gafas para miopía de 400 grados a hipermetropía de 200 grados. Las gafas de tamaño normal también son compatibles  Marca\tTSANGLIGHT Color\tBlanco SO\tAndroid/IOS/PC Tamaño de la pantalla\t6.2 Pulgadas Tecnologías de conectividad\tBluetooth, USB",
+      "price": 3499,
+      "is_avalible": "true",
+      "productImg": "./assets/img/37.png",
+      "rating": 5,
+      "vendor_name": "Tsanglight",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 90,
+      "ProductName": "Visores gamer de realidad Virtual Oculus Quest 128GB",
+      "categoryID": "8",
+      "descriptions": "VR todo en uno: no PC. No hay cables. Sin limites. Oculus Quest es un sistema de juego todo en uno creado para la realidad virtual. Ahora puedes jugar en casi cualquier lugar con solo un auricular y controles de realidad virtual. Controladores Oculus Touch: Ármese con los galardonados controladores Oculus Touch. Sus barras, lanzamientos y agarres aparecen en la realidad virtual con una precisión realista e intuitiva, transportando sus manos y gestos directamente al juego Fácil configuración: El mundo es tu arcade. La configuración es fácil ya sea que estés en casa o en un lugar nuevo. Oculus Quest trabaja con su entorno, por lo que puede jugar de pie o sentado en espacios grandes o pequeños. Increíbles juegos de realidad virtual: deja de ver juegos y adéntrate en ellos. Ya sea que estés esquivando hechizos o atacando hordas enemigas, nunca has estado tan cerca de la acción. Guardian te ayuda a mantenerte seguro: explora el universo sin tropezar con la mesa de café. El sistema Oculus Guardian está diseñado para ayudarte a evitar objetos cercanos mientras estás en el juego.  Marca\tOculus Peso del producto\t4.57 Libras Plataforma\tOculus Dispositivos compatibles\tOculus touch Tamaño de la pantalla\t7",
+      "price": 19999,
+      "is_avalible": "true",
+      "productImg": "./assets/img/38.png",
+      "rating": 5,
+      "vendor_name": "Oculus",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 91,
+      "ProductName": "SAMSUNG Galaxy Watch 4 44mm Smart Watch Bluetooth",
+      "categoryID": "8",
+      "descriptions": "Mejores conocimientos para alcanzar tus objetivos de fitness saca más de cada milla gracias al entrenamiento de ritmo integrado en el Galaxy Watch. Sus sensores avanzados mantienen tu ritmo para ayudarte a alcanzar mejor tus objetivos de carrera   Marca\t‎SAMSUNG Fabricante\t‎Samsung Modelo\t‎Samsung Galaxy Watch 4 Nombre del modelo\t‎Samsung Galaxy Número de parte\t‎Samsung Galaxy Watch 4 Accesorios de montaje\t‎Cargador, Reloj, Correa Número de productos\t‎3 Baterías incluidas\t‎Sí Baterías necesarias\t‎Sí Composición de celdas de batería\t‎Litio Ion Tipo de conexión inalámbrica\t‎Bluetooth Tipo de conector\t‎Bluetooth Incluye batería recargable\t‎Sí",
+      "price": 2500,
+      "is_avalible": "true",
+      "productImg": "./assets/img/39.png",
+      "rating": 4,
+      "vendor_name": "Samsung",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 92,
+      "ProductName": "Drone Recreativo con Doble Cámara 4K",
+      "categoryID": "4",
+      "descriptions": "PACK LIGHT, FLY FREE: con menos de 500 g, cabe en la palma de la mano. compacto y conveniente, este pequeño dron es su compañero de viaje ideal, transformando la forma en que captura sus recuerdos favoritos. Puede conectarse a la aeronave a través de WIFI y ver imágenes de alta definición en tiempo real en la aplicación. Cámara gran angular de 120 ° para tomar fotografías de manera más completa. Soporte para tomar fotografías y videos. Funciones: Cuerpo completamente plegable, luces nocturnas, cámara 4K de alta definición, batería modular, ajuste de velocidad, despegue y aterrizaje con un solo botón, parada de emergencia, giro de 360 ​​°, vuelo de trayectoria, sensor de gravedad, producción de MV, zoom de 50x. Imágenes HD y videos en vivo: equipado con una cámara Wi-Fi de 4k HD para tomar mejores fotos aéreas y videos; con transmisión FPV, puede ver el cielo desde una transmisión de video en vivo a través de la aplicación de teléfono inteligente  Fabricante\t‎MAOGOU Brand\t‎MAOGOU Color\t‎A",
+      "price": 1184,
+      "is_avalible": "true",
+      "productImg": "./assets/img/40.png",
+      "rating": 2,
+      "vendor_name": "Generico",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 93,
+      "ProductName": "Samsung G991B Galaxy S21 5G 128 GB Enterprise",
+      "categoryID": "6",
+      "descriptions": "Modelo\t‎SM-G991BZADEEB Año del modelo\t‎2021 Número de parte\t‎SM-G991BZADEEB Tamaño de RAM\t‎8 GB Capacidad de almacenamiento de la memoria\t‎128 GB Tama�o de memoria flash instalada\t‎128 Capacidad de almacenamiento digital\t‎128 GB Sistema operativo\t‎Android Tamaño del área de visualización de la pantalla con pie\t‎6.2 Pulgadas Relación de aspecto\t‎1.27:1 Baterías incluidas\t‎No Baterías necesarias\t‎Sí Tecnología celular\t‎5G Entrada de interfaz humana\t‎Microphone   Operador inalámbrico\tTodas las empresas de transportes Marca\tSAMSUNG Capacidad de almacenamiento de la memoria\t128 GB Sistema operativo\tAndroid Color\tGray Tecnología celular\t5G Año del modelo\t2021 Tamaño de la pantalla\t6.2 Pulgadas Fabricante\tSamsung Peso del producto\t171 Gramos",
+      "price": 24000,
+      "is_avalible": "true",
+      "productImg": "./assets/img/41.png",
+      "rating": 4,
+      "vendor_name": "Samsung",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 94,
+      "ProductName": "Moto E7, Gris Mineral, Smartphone de 6.5\"",
+      "categoryID": "6",
+      "descriptions": "Tamaño de Pantalla 6.5\" Procesador Helio G25 Almacenamiento 32 GB Memoria 2 GB Tamaño da batería 4,000 mAh   Nombre del modelo\tMoto E7 Operador inalámbrico\tDesbloqueado Marca\tMotorola Factor de forma\tBarra Capacidad de almacenamiento de la memoria\t32 GB SO\tAndroid 10.0 Color\tGris mineral Tecnología celular\t4G Año del modelo\t2021 Tamaño de la pantalla\t6.5 Pulgadas",
+      "price": 2779,
+      "is_avalible": "true",
+      "productImg": "./assets/img/42.png",
+      "rating": 4,
+      "vendor_name": "Motorola",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 95,
+      "ProductName": "Apple iphone xs 64gb Silver",
+      "categoryID": "6",
+      "descriptions": "- Este producto usado no tiene certificación de Apple, pero proveedores cualificados de Amazon lo han inspeccionado, probado y limpiado profesionalmente. - No habrá imperfecciones superficiales visibles cuando el producto se sostenga a un brazo de distancia. - Este producto tendrá una batería que supere el 80 % de capacidad en comparación con uno nuevo. - Es posible que los accesorios no sean originales, pero serán compatibles y totalmente operativos. Es posible que el producto venga en una caja genérica. - El producto vendrá con una herramienta para retirar la SIM, un cargador y un cable de carga. Los auriculares y la tarjeta SIM no están incluidos. - Este producto viene con una garantía de 90 días respaldada por el proveedor.  Nombre del modelo\tIPhone XS Operador inalámbrico\tDesbloqueado Marca\tApple Capacidad de almacenamiento de la memoria\t64 GB SO\tIOS Color\tPlateado Año del modelo\t2018 Tamaño de la pantalla\t5.8 Pulgadas Fabricante\tApple Computer Tecnologías de conectividad\tUSB",
+      "price": 9899,
+      "is_avalible": "true",
+      "productImg": "./assets/img/43.png",
+      "rating": 4,
+      "vendor_name": "Apple",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 96,
+      "ProductName": "Round Mini Portable Bluetooth Speaker",
+      "categoryID": "5",
+      "descriptions": "【TWS y Manos Libres】Bocinas portátiles bluetooth gracias a la función TWS, puedes emparejar 2 T2 Plus para jugar en estéreo o en modo fiesta y disfrutar de un sonido envolvente de 360 ​​°. El micrófono incorporado tiene tecnología de reducción de ruido incorporada para llamadas más claras. 【Impermeable contra Agua】Altavoz bluetooth Impermeable de IPX6 que bien resistente contra las salpicaduras y chorros de agua, cubierta sólida de metal a prueba de los golpes, caídas y polvo, que puede disfrutar la música favorita en cualquier momento y lugar incluso en condiciones climáticas adversas. 【Múltiples Modos】Altavoz bluetooth 5.0, también admite reproducción de tarjetas USB y TF. Conexión rápida de Bluetooth 5.0 que es compatible con el sistema de iOS y Android de los teléfonos, tabletas, computadoras y todo tipo de dispositivos con la Bluetooth función. Funciona hasta la distancia de transmisión efectiva de 10m con la conexión estable. 【Batería Recargable y Duradera】Bocina portátil bluetooth una capacidad de 1200 mAh para puede reproducir música durante mucho tiempo, muy adecuada para las actividades al aire libre, acampar, hacer picnic, fiesta, fiestas en la piscina. 【Diseño Compacto y Portátil】Diseño portátil de mini tamaño, también tiene una correa integrada para colgarla de la mochila o al manubrio de la bicicleta.  Tecnología de conectividad\tBluetooth, USB Tipo de altavoz\tAl aire libre Marca\tINSMY Usos recomendados para producto\tPara smartphones o tabletas Es impermeable\tVerdadero",
+      "price": 359,
+      "is_avalible": "true",
+      "productImg": "./assets/img/44.png",
+      "rating": 4,
+      "vendor_name": "Insmy",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 97,
+      "ProductName": "TV Bluetooth Soundbar With HDMI-ARC Connectivity",
+      "categoryID": "5",
+      "descriptions": "60W Powerful TV Sound Bar: This TV speaker equipped with 60W output power and 2 powerful speakers, which can produce an impressive high-quality stereo sound, deep bass, clear vocals and enhanced CD-quality sound. DSP & Virtual 3D Surrounded: Built-in DSP and virtual 3D surround technology, makes the sound field positioning more accurate and the vocals clearer. It is a great way to improve TV sound, enjoy High-quality musics and get ultimate gaming experiences. Multiple Audio Inputs: It supports OPT, HDMI, LINE IN and USB wired audio input to seamlessly connect with the TV/PC. You can also easily connect to wireless devices like cellphone, pad, tablets, laptop to the sound bar via Bluetooth 5.0. Remote Control & 5 EQ modes:The sound bars for TV with subwoofer is equipped with infrared remote control device and 5 equalizer modes. Which is easy to operate and covers 15m distance. Different modes creates a different atmosphere to meet your daily needs. Ultra Slim and Modern Design: Compact and sleek design will add a high-tech feel to your home, and the 16.14 x 3.23 x 2.6 inch body can fit TV / PC under 43 inches perfectly. No matter it is placed flat on the table or mounted on any wall, it will not block the TV remote to control TV(32 \"and 24\" TV are recommended).  Tipo de conector\tBluetooth, USB, HDMI, Infrarrojo Tipo de altavoz\tSonido envolvente Marca\tAudvoi Tipo de montaje\tWall Mount/Desktop Mount Color\tBlack",
+      "price": 1543,
+      "is_avalible": "true",
+      "productImg": "./assets/img/45.png",
+      "rating": 4,
+      "vendor_name": "Audvoi",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 98,
+      "ProductName": "Pilates 14\" Touch Screen Laptop 12GB Memory",
+      "categoryID": "2",
+      "descriptions": "【Dual Core i3-1005G1】Procesador Intel Core i3-1005G1 (frecuencia base de 1,2 GHz hasta 3,4 GHz, caché de 4 MB, 2 núcleos), batería de iones de litio de 2 celdas, hasta 9 horas de duración de la batería de uso mixto 【Pantalla】FHD de 15.6 pulgadas (1920 x 1080) con bisel NanoEdge de cuatro caras; Gráficos: Intel UHD Graphics con memoria gráfica compartida; Ideal para el hogar, estudiantes, profesionales, pequeñas empresas, educación escolar y empresa comercial, lista para clases en línea, WLAN; aprendizaje remoto, Zoom Ready, Google Classroom descarga por separado gratis 【Actualizado a 12 GB de memoria】para multitarea avanzada, RAM de alto ancho de banda para ejecutar sin problemas tus juegos y aplicaciones de edición de fotos y vídeo, así como múltiples programas y pestañas de navegador todo a la vez. 【Actualizado a SSD PCIE de 1 TB + 128 GB】 Guarda archivos rápidamente y almacena más datos. Con una gran cantidad de almacenamiento y potencia de comunicación avanzada, las SSD PCI-e son ideales para las principales aplicaciones de juegos, múltiples servidores, copias de seguridad diarias y mucho más. Modo Windows 10 Home S: Windows 10 Home 64 bits modo S, se puede cambiar a Windows 10 Home normal (siga como la descripción). Windows 10 trae de nuevo el menú Inicio desde Windows 7 e introduce nuevas características, como el explorador Web Edge que le permite marcar páginas Web en la pantalla. El modo S mejora la seguridad y aumenta el rendimiento.   Marca\tAsus Tamaño de la pantalla\t15.6 Pulgadas Sistema operativo\tWindows 10 S, Windows 10 Entrada en la interfaz humana\tKeyboard Fabricante del CPU\tIntel Tecnología de conectividad\tBluetooth, USB, HDMI, Wifi Tamaño del disco duro\t128 GB Recuento de procesadores\t2 Marca de la tarjeta gráfica\tIntel Resolución\t1080p, 720p",
+      "price": 13649,
+      "is_avalible": "true",
+      "productImg": "./assets/img/46.png",
+      "rating": 4,
+      "vendor_name": "Azus",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 99,
+      "ProductName": "Lenovo IdeaPad 3 14 14.0\" Laptop, 14.0\" FHD",
+      "categoryID": "2",
+      "descriptions": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics The IdeaPad 3 14-inch laptop has 4-side narrow bezels that let you see more of the FHD (1920 x 1080) screen for wider viewing angles and less clutter Quieter and cooler with intelligent thermals, plus you can calibrate performance with Q-control, with 3 modes to match your performance needs Protect your webcam lens and guarantee your privacy with the built-in privacy shutter WiFi 6 (2x2 802.11 ax) and Bluetooth 5.0 connectivity, plus USB, USB-C, and HDMI ports  Series\tIdeapad 3 14 Laptop Marca\tLenovo Usos específicos del producto\tPersonal Tamaño de la pantalla\t14 Sistema operativo\tWindows 10 Home Entrada en la interfaz humana\tMicrophone Fabricante del CPU\tAMD Color\tAbyss Blue Tecnología de conectividad\tBluetooth, USB, HDMI, Wifi Recuento de procesadores\t1",
+      "price": 12800,
+      "is_avalible": "true",
+      "productImg": "./assets/img/47.png",
+      "rating": 4,
+      "vendor_name": "Lenovo",
+      "distribuidor": "Erus"
+    },
+    {
+      "id": 100,
+      "ProductName": "Skullcandy Riff On-Ear Headphones Microphone",
+      "categoryID": "8",
+      "descriptions": "Almohadillas memory foam Diseño plegable Diadema semi flexible   Marca\tSKULLCANDY Color\tBLACK Tipo de conector\tAlámbrico Nombre del modelo\tRIFF ON-EAR W/TAP TECH Factor de forma de los auriculares\tSupraaurales",
+      "price": 428,
+      "is_avalible": "true",
+      "productImg": "./assets/img/48.png",
+      "rating": 5,
+      "vendor_name": "SkullCandy",
+      "distribuidor": "Erus"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Pantallas",
+      "image": "fa-solid fa-tv"
+    },
+    {
+      "id": 2,
+      "categoryName": "Lavadoras",
+      "image": "fa-solid fa-dryer"
+    },
+    {
+      "id": 3,
+      "categoryName": "Refrigeradores",
+      "image": "fas fa-refrigerator"
+    },
+    {
+      "id": 4,
+      "categoryName": "Drones",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "categoryName": "Audio",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "categoryName": "Celulares",
+      "image": ""
+    },
+    {
+      "id": 8,
+      "categoryName": "Accesorios",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "categoryName": "TV",
+      "image": ""
+    }
+  ],
+  "subcategory": [],
+  "clients": [
+    {
+      "id": 1,
+      "nombre": "prueba",
+      "contraseña": "1234",
+      "correo": "a@a",
+      "role": 1,
+      "numero": "5512345678"
+    },
+    {
+      "id": 2,
+      "nombre": "prueba",
+      "contraseña": "1",
+      "correo": "a@b",
+      "role": 1,
+      "numero": "5587654321"
+    },
+    {
+      "id": 3,
+      "nombre": "admin",
+      "contraseña": "1234",
+      "correo": "admin@correo",
+      "role": 2,
+      "numero": "5511111111"
+    },
+    {
+      "id": 4,
+      "correo": "Adrian@correo",
+      "contraseña": "1234",
+      "nombre": "Adrian Peres Torres",
+      "role": 1,
+      "numero": "5588888888"
+    }
+  ],
+  "log": [
+    {
+      "id": 1,
+      "logeado": 1,
+      "cuenta": 1
+    }
+  ],
+  "control": [
+    {
+      "id": 1,
+      "control": 1,
+      "compra": 7
+    }
+  ],
+  "compra": [
+    {
+      "id": 2,
+      "cliente": 1,
+      "precioTotal": 300,
+      "terminado": 1
+    },
+    {
+      "cliente": 1,
+      "id": 3,
+      "precioTotal": 1100,
+      "terminado": 1
+    },
+    {
+      "cliente": 1,
+      "id": 4,
+      "precioTotal": 2286,
+      "terminado": 1
+    },
+    {
+      "cliente": 1,
+      "id": 5,
+      "precioTotal": 12663,
+      "terminado": 1
+    },
+    {
+      "cliente": 1,
+      "id": 6,
+      "precioTotal": 23364,
+      "terminado": 1
+    },
+    {
+      "id": 7,
+      "cliente": 1,
+      "precioTotal": 3400,
+      "terminado": 0
+    }
+  ],
+  "subcompra": [
+    {
+      "id": 2,
+      "producto": 1,
+      "compra": 2,
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "producto": 2,
+      "compra": 3,
+      "cantidad": 2
+    },
+    {
+      "id": 4,
+      "producto": 1,
+      "compra": 3,
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "producto": 2,
+      "compra": 4,
+      "cantidad": 2
+    },
+    {
+      "id": 7,
+      "producto": 69,
+      "compra": 5,
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "producto": 74,
+      "compra": 5,
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "producto": 19,
+      "compra": 5,
+      "cantidad": 2
+    },
+    {
+      "id": 10,
+      "producto": 1,
+      "compra": 6,
+      "cantidad": 1
+    },
+    {
+      "id": 11,
+      "producto": 76,
+      "compra": 6,
+      "cantidad": 5
+    },
+    {
+      "id": 12,
+      "producto": 30,
+      "compra": 7,
+      "cantidad": 2
+    }
+  ],
+  "comentarios": [
+    {
+      "nombre": "Jose Uriel",
+      "correo": "Ejemplo@correo",
+      "comentarios": "Escribimos comentarios ",
+      "id": 1
+    },
+    {
+      "nombre": "Adrian Peres Torrez",
+      "correo": "correo@ejemplo",
+      "comentarios": "Aqui van las dudas y especificaciones",
+      "id": 2
+    }
+  ]
+}

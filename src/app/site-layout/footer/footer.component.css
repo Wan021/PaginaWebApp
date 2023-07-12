@@ -1,0 +1,39 @@
+body {margin:0;}
+
+#barraInferior {
+overflow: hidden;
+width: 100%;
+}
+
+#barraInferior ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding-left: 30% ;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+#barraInferior li {
+    float: left;
+
+}
+
+#barraInferior li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#barraInferior li a:hover{
+    background-color: #111;
+}
+
+#barraInferior li a:active{
+    background-color:#4CAF50;
+}

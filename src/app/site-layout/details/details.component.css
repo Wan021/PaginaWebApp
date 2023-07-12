@@ -1,0 +1,27 @@
+#a{
+  color:white;
+  text-decoration: none;
+}
+.principal{
+  width: 100%;
+  height: auto;
+  color: #fff;
+  background-color: #132c51;
+  padding: 50px 0;
+}
+.social-icon {
+  display: inline-block;
+  width: 40px; /* Ajusta el tamaño del círculo según tus necesidades */
+  height: 40px; /* Ajusta el tamaño del círculo según tus necesidades */
+  border-radius: 50%; /* Aplica la forma circular */
+  background-color: white; /* Aplica el fondo blanco */
+  text-align: center;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  margin: 7px; /* Ajusta el margen según tus necesidades para centrar el icono */
+}

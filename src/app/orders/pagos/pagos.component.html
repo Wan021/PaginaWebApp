@@ -1,0 +1,110 @@
+<div *ngIf="contr.control==1">
+  <h1>Carrito</h1>
+  <table id="product">
+    <tr>
+      <th>
+        Producto
+      </th>
+      <th>
+        Nombre
+      </th>
+      <th>
+        Imagen
+      </th>
+      <th>
+        Cantidad
+      </th>
+      <th>
+        Precio
+      </th>
+      <th>
+        Precio Total
+      </th>
+    </tr>
+    <tr *ngFor="let a of lista">
+      <td>
+        {{a.numero}}
+      </td>
+      <td>
+        {{a.producto}}
+      </td>
+      <td>
+        <img style="margin: 0 auto;" src="{{a.imagen}}" height="50px" width="50px" alt="" />
+      </td>
+      <td>
+        {{a.cantidad}}
+      </td>
+      <td>
+        {{a.precio}}
+      </td>
+      <td>
+        {{a.precioTotal}}
+      </td>
+    </tr>
+    <tr>
+      <td colspan=5>
+        total
+      </td>
+      <td>
+        {{price}}
+      </td>
+    </tr>
+  </table>
+  <div class=container>
+    <br>
+    <div class="row">
+      <div class="col-sm">
+        <button type="button" class="btn btn-danger" aria-label="Left Align" (click)="cancelar()">
+          <i class="fa fa-minus-circle"> Cancelar compra</i>
+        </button>
+      </div>
+      <div class="col-sm">
+        <button type="button" class="btn btn-success" aria-label="Left Align" (click)="comprar()">
+          <i class="fa fa-check-circle"> Comprar</i>
+        </button>
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="container">
+    <h1>Método de pago:</h1>
+    <div class="row">
+      <div class="col-sm">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+          <label class="form-check-label" for="flexRadioDefault1">
+            <img alt="Visa.png" style="width: 54px; height: 30px; object-fit: cover;" src="https://static.wixstatic.com/media/84770f_27001c40036842889a78a72766ad4700~mv2.png/v1/fill/w_68,h_38,al_c,q_85,usm_0.66_1.00_0.01/Visa.webp">
+          </label>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+          <label class="form-check-label" for="flexRadioDefault2">
+            <i class="fa fa-cc-mastercard fa-3x"></i>
+          </label>
+        </div>
+      </div>
+      <div class="col-sm" require>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+          <label class="form-check-label" for="flexRadioDefault2" >
+            <img alt="" style="width: 54px; height: 24px; object-fit: cover;" src="https://static.wixstatic.com/media/c837a6_2bd3e20d1e214eccb5e106fc6d1f535d~mv2.png/v1/fill/w_68,h_30,al_c,q_85,usm_0.66_1.00_0.01/brand-amex%403x.webp">
+          </label>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+          <label class="form-check-label" for="flexRadioDefault2">
+            <img alt="PayPal.png" style="width: 54px; height: 34px; object-fit: cover;" src="https://static.wixstatic.com/media/84770f_8445424a46ca49f39359bf19d4a3e537~mv2.png/v1/fill/w_68,h_43,al_c,q_85,usm_0.66_1.00_0.01/PayPal.webp">
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="contr.control==0">
+  <h1>Carrito vacio, favor de agregar productos para comprar :3</h1>
+</div>
+

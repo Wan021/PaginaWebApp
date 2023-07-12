@@ -1,0 +1,10 @@
+<h2 class="bg-light mb-2 text-center">Actualizar producto</h2>
+<form  #form="ngForm" (ngSubmit)="UpdateCategory(form)"  >
+  <div class="row">
+    <div class="col-md-4 mb-3">
+      <label for="validationServer01">Nombre de la categoria</label>
+      <input type="text" class="form-control" [(ngModel)]="list.categoryName" id="validationServer01" placeholder="Nombre de la categoria" name="name" ngModel required >
+    </div>
+    <button class="btn btn-primary" type="submit" >Actualizar</button>
+  </div>
+</form>

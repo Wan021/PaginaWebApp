@@ -1,0 +1,39 @@
+<div class="login">
+  <div class="container text-center">
+    <div class="row align-items-center">
+      <div class="col">
+        <div class="row mt-5 mb-5" *ngIf="element==0">
+          <form class="custom-form" #form="ngForm" (ngSubmit)="verificarCliente(form)">
+            <h4 class="chakra-text">Por favor, escriba su número de teléfono o correo electrónico</h4>
+            <div class="col mt-2 mb-2">
+              <input type="email" name="email" class="form-control col-sm-8 col-lg-12" ngModel>
+            </div>
+            <button class="btnsubmit" type="submit">
+              Siguiente
+            </button>
+          </form>
+        </div>
+        <div class="row mt-4 mb-4" *ngIf="element==1">
+          <form class="custom-form" #form="ngForm" (ngSubmit)="IngresarClient(form)">
+            <h1>Escriba su contraseña</h1>
+            <div class="col mt-2 mb-2">
+              <input form-check-input type="password" name="password" placeholder="contraseña" class="form-control col-sm-8 col-lg-12" ngModel />
+            </div>
+            <button class="btnsubmit" type="submit">
+              Ingresar
+            </button>
+          </form>
+        </div>
+        <div class="row mt-4 mb-4" >
+          <div>
+            <h1>¿Es tu primera compra?</h1>
+            <a class="btn" href="cuenta/registrer">Crear mi cuenta</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <img src="../../../assets/img/Graviti/graviti-family.png">
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+.navbar-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar>.container>.ms-auto>a {
+    background-color: #132c51;
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+    width: 139px;
+    height: 34px;
+    margin-right: 10px;
+}
+
+.navbar>button {
+    background-color: #132c51;
+    border: none;
+    color: #fff;
+    width: 65px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

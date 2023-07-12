@@ -1,0 +1,65 @@
+<div class="container-md text-center">
+  <h1 class="text-center">Selecciona una categoria</h1>
+  <div class="row">
+    <div class="col mx-auto d-block" >
+      <div class="row">
+        <a href="" class="btn2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="82" height="82" fill="currentColor" class="bi bi-tags-fill center-block" viewBox="0 0 16 16">
+            <path d="M2 2a1 1 0 0 1 1-1h4.586a1 1 0 0 1 .707.293l7 7a1 1 0 0 1 0 1.414l-4.586 4.586a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 2 6.586V2zm3.5 4a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+            <path d="M1.293 7.793A1 1 0 0 1 1 7.086V2a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l.043-.043-7.457-7.457z"/>
+          </svg>
+        </a>
+      </div>
+      <div class="row" >
+        <h4 class="text-center">Promociones</h4>
+      </div>    
+    </div>
+    <div class="col" *ngFor="let catg of categoryList" >
+      <div class="row">
+        <a href="category/{{catg.id}}" class="btn2">
+          <i class="{{catg.image}}"></i>
+        </a>
+      </div>
+      <div class="row">
+        <h4 class="text-center">{{catg.categoryName}}</h4>
+      </div>
+    </div>
+  </div>
+  <!-- <ul>
+    <li *ngFor="let cat of subcategoryList"><a *ngIf="catg.id==cat.category" href="products/category/{{cat.id}}">{{cat.SubName}}</a></li>
+  </ul> -->
+</div>
+<div class="row">
+  <div class="row mb-4" *ngFor="let productsRow of productList | chunk: 4">
+    <div class="col" *ngFor="let products of productsRow">
+      <div class="d-flex justify-content-center">
+        <div class="card justify-content-center">
+          <a href="view-product/{{products.id}}"><img class="card-img-top" src="{{products.productImg}}"/></a>
+          <div class="card-body justify-content-center">
+            <strong>
+              <a href="view-product/{{products.id}}">{{ (products.ProductName.length > 27) ? (products.ProductName | slice:0:24)+ '...' : products.ProductName }}</a>
+            </strong><br>
+            <strong>Marca: {{(products.vendor_name.length > 25) ? (products.vendor_name | slice:0:25) + '...' : products.vendor_name }}</strong><br>
+            <strong>Disponible en {{products.distribuidor}}</strong><br>
+            <strong>Precio: {{products.price|currency:'MXN'}}</strong>
+          </div>
+          <div class="card-footer justify-content-center">
+            <table>
+              <tr>
+                <td >{{products.rating}} estrellas</td>
+                <span class="text-warning" >
+                  <td *ngFor="let dummy of ' '.repeat(products.rating).split(''), let x = index">
+                    &#9733;
+                  </td>
+                </span>
+                <td *ngFor="let dummy of ' '.repeat(5-products.rating).split(''), let x = index">
+                  &#9733;
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

@@ -1,0 +1,60 @@
+<br>
+<h1 *ngIf="control==0">Sin Productos en el carrito</h1>
+<div *ngIf="control!=0">
+  <div *ngFor="let c of compra">
+    <div *ngFor="let a of compras">
+      <div *ngFor="let b of usuario">
+        <div *ngIf="a.compra==c.id&&c.terminado==0 &&b.cuenta==c.cliente">
+          <div *ngFor="let g of product">
+            <div *ngIf="g.id==a.producto" class="row">
+              <div class="col-sm">
+                <img style="margin: 0 auto;" src="{{g.productImg}}" height="50px" width="50px" alt="" />
+                <div class="card-body">
+                  <h3 class="card-title">{{g.ProductName}}</h3>
+                </div>
+              </div>
+              <div class="col-sm">
+                <h3 class="card-text">
+                  <div class="col">
+                    <div class="row">
+                      <strong *ngIf="a.cantidad==1">{{a.cantidad}} unidad </strong>
+                      <strong *ngIf="a.cantidad>1">{{a.cantidad}} unidades </strong>
+                    </div>
+                    <div clas="col-sm">
+                      <strong>{{a.cantidad*g.price|currency:'MXN'}}</strong>
+                    </div>
+                    <div class="col">
+                      <button type="button" class="btn btn-success" (click)="add(a)"><i class="fa fa-plus-circle"> Agregar 1</i></button>
+                      <button type="button" class="btn btn-danger" (click)="less(a)"><i class="fa fa-minus-circle"> Quitar 1</i></button>
+                    </div>
+                  </div>
+                </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="c.terminado==0" class="card-body">
+      <h3 class="card-text">Precio Total:
+        <strong>{{c.precioTotal|currency:'MXN'}}</strong>
+      </h3>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <form #form="ngForm" (ngSubmit)="comprar(form)">
+              <input type="hidden" name="cantidad" [ngModel]="c" ngModel>
+              <button class="btn btn-graviti" type="submit">Comprar</button>
+            </form>
+          </div>
+          <div class="col-sm">
+            <form #form="ngForm" (ngSubmit)="cancelar(form)">
+              <input type="hidden" name="cantidad" [ngModel]="c" ngModel>
+              <button class="btn btn-secondary" style="background-color: red;" type="submit">Cancelar</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

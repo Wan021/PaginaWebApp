@@ -1,0 +1,15 @@
+<body>
+  <nav>
+    <ul class="menu">
+      <li>
+        <a href="products" >Todos</a>
+      </li>
+      <li *ngFor="let catg of categoryList">
+        <a href="products/category/{{catg.id}}" >{{catg.categoryName}}</a>
+        <ul>
+          <li *ngFor="let cat of subcategoryList"><a *ngIf="catg.id==cat.category" href="products/category/{{cat.id}}">{{cat.SubName}}</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</body>

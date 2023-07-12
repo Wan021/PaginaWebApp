@@ -1,0 +1,29 @@
+<div class="login">
+  <div class="container">
+    <div class="col ">
+      <form class="custom-form" #form="ngForm" (ngSubmit)="AddNewClient(form)">
+        <div class="col mt-4 mb-4">
+          <h1>Crear Cuenta</h1>
+        </div>
+        <div class="col mt-2 mb-2">
+          <input type="email" class="form-control" name="email" placeholder="correo" required ngModel/>
+        </div>
+        <div class="col mt-2 mb-2">
+          <input type="text" class="form-control"  name="name" placeholder="nombre" required="required" ngModel/>
+        </div>
+        <div class="col mt-2 mb-2">
+          <input type="text" class="form-control" name="numero" placeholder="numero telefonico" required="required" ngModel/>
+        </div>
+        <div class="col mt-2 mb-2">
+          <input type="password" class="form-control"  name="password" placeholder="contraseña" required="required"  ngModel/>
+        </div>        
+        <div class="col mt-2 mb-2">
+          <input type="password" class="form-control"  name="password2" placeholder="confirmar contraseña" required="required"  ngModel/>  
+        </div>
+        <div class="col mt-2 mb-2">
+          <button type="submit" class="btn btn-primary" >Crear</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

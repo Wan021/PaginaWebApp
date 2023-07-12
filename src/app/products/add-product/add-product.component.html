@@ -1,0 +1,48 @@
+<h2 class="bg-light mb-2 text-center">Agregar nuevo producto</h2>
+<form  #form="ngForm" (ngSubmit)="AddNewProduct(form)"  >
+  <div class="row">
+    <div class="col-md-4 mb-3">
+      <label for="validationServer01">Nombre del producto</label>
+      <input type="text" class="form-control" id="validationServer01" placeholder="Nombre del producto" name="product_name" ngModel required >
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationServer02">Categoria</label>
+      <select class="form-control" id="validationServer02" required name="category_id" ngModel>
+        <option selected value="" disabled="disabled">Selecciona Categoria</option>
+        <option value={{cat.id}} *ngFor="let cat of lista">{{cat.categoryName}}</option>
+      </select>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationServer03">Descripción</label>
+      <input type="text" class="form-control" id="validationServer02" placeholder="Ingrese Descripción" required name="description" ngModel>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 mb-3">
+      <label for="validationServer01">Precio Producto</label>
+      <input type="number" class="form-control" id="validationServer03" min="0" placeholder="Ingrese Precio Producto" required name="Product_price" ngModel>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationServer02">¿Esta disponible?</label>
+      <select class="form-control" id="validationServer03" required name="is_avalible" ngModel>
+        <option selected value="true">Si</option>
+        <option value="false">No</option>
+      </select>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationServer04">Imagen</label>
+      <input type="text" class="form-control" required name="productImg" placeholder="Ingresa Url" ngModel>
+     </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 mb-3">
+      <label for="validationServer05">Calificación</label>
+      <input type="number" class="form-control" required name="product_rating" step="1" min="1" max="5" placeholder="Selecciona Calificación" ngModel>
+     </div>
+    <div class="col-md-6 mb-3">
+      <label for="validationServer06">Vendedor</label>
+      <input type="text" class="form-control" required name="vendor_name" placeholder="Ingrese nombre del Vendedor" ngModel>
+     </div>
+  </div>
+  <button class="btn btn-primary" type="submit" >Agregar Producto</button>
+</form>

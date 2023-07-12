@@ -1,0 +1,61 @@
+<div class="row">
+  <div class="col-sm-7">
+    <div class="card mt-4" *ngFor="let productData of productData">
+      <img style="margin: 0 auto;" src="{{productData.productImg}}" height="250px" width="300px" alt="" />
+      <div class="card-body" id="a">
+        <h3 class="card-title">{{productData.ProductName}}</h3>
+        <h3 class="card-body">Marca: {{productData.vendor_name}}</h3>
+        <table style="margin: 0 auto;">
+          <tr>
+            <td >{{productData.rating}} estrellas</td>
+            <span class="text-warning" >
+              <td *ngFor="let dummy of ' '.repeat(productData.rating).split(''), let x = index">
+                &#9733;
+              </td>
+            </span>
+            <td *ngFor="let dummy of ' '.repeat(5-productData.rating).split(''), let x = index">
+              &#9733;
+            </td>
+          </tr>
+        </table>
+        <br>
+        <h4>Costo de ${{productData.price|currency:'MXN'}}</h4>
+        <div class="white-space-pre-line">
+          <p class="card-text" [innerHTML]="saltoLinea(productData.descriptions)"></p>
+        </div>
+        <div *ngIf="List[0]['cuenta']==1">
+          <br><br><br>
+          <form  #form="ngForm" (ngSubmit)="AddCarProduct(form)"  >
+            <div class=container>
+              <div class="row">
+                <div class="col-sm">
+                  <strong>Cantidad</strong>
+                </div>
+                <div class="col-sm">
+                  <input type="number" class="form-control" required name="cantidad" step=1 min=1 [ngModel]=1 ngModel>
+                </div><div class="col-sm">
+                  <button class="btn btn-primary" type="submit"><i class="fa fa-cart-plus"> Agregar a carrito</i></button>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div *ngIf="List[0]['cuenta']==2">
+          <a href="update-product/{{productData.id}}">Actualizar Producto</a> |
+          <a href="delete-product/{{productData.id}}">Borrar Producto</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-5" *ngIf="List[0]['cuenta']==1&&show">
+    <app-carrito></app-carrito>
+  </div>
+  <div class="col-sm-5" *ngIf="List[0]['cuenta']!=1">
+    <h2 class="card-text">
+      <br>
+      <strong>Sesión no iniciada</strong>, <br>para comprar <strong>registrese</strong> o <strong>inicie Sesión</strong>
+    </h2>
+  </div>
+</div>
+<br><br>

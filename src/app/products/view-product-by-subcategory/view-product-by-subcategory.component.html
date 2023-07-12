@@ -1,0 +1,31 @@
+<div *ngFor="let cate of categoryN">
+  <h4>Mostrando el resultado de la búsqueda para la subcategoria"{{cate.categoryName}}"</h4>
+</div>
+<div class="row">
+  <div *ngFor="let products of productList">
+    <div class="card h-100">
+      <a href="view-product/{{products.id}}"><img class="card-img-top" src="{{products.productImg}}" height="250px" width="200px" alt="" /></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="view-product/{{products.id}}">{{products.ProductName}}</a>
+        </h4>
+        <h5>{{products.price}}</h5>
+        <p class="card-text">{{products.descriptions}}</p>
+      </div>
+      <div class="card-footer">
+        <table>
+          <tr>
+            <span class="text-warning" >
+              <td *ngFor="let dummy of ' '.repeat(products.rating).split(''), let x = index">
+                &#9733;
+              </td>
+            </span>
+            <td *ngFor="let dummy of ' '.repeat(5-products.rating).split(''), let x = index">
+              &#9733;
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,54 @@
+#product {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:x-large;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#product td, #product th {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 8px;
+}
+
+#product tr:nth-child(even){
+  background-color: rgb(190, 88, 216)
+}
+#product tr:nth-child(odd){
+  background-color: rgb(169, 3, 211)
+}
+
+#product th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #8904aa;
+}
+
+.table {
+  text-align: center;
+}
+
+
+.btn2{
+  color: #668ad8;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  border-radius: 50%;
+  border:double 4px #668ada;
+  transition: .6s;  
+  display: flex;  
+  justify-content: center;  
+  align-items: center;  
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+}

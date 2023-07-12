@@ -1,0 +1,52 @@
+<!-- Navigation-->
+<nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top border border-2">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="./assets/img/Graviti/Logo-graviti.png">
+    </a>
+    <div class="ms-auto">
+    </div>
+  </div>
+  <p>
+    <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modalMenu">
+      <svg width="23" height="23" class="styles_iconBar__UYF_1" viewBox="0 0 33 22" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M32.789 21.5299H11.389V18.0362H32.789V21.5299ZM32.789 12.7957H0.688965V9.30205H32.789V12.7957ZM32.789 4.06154H11.389V0.567871H32.789V4.06154Z"
+          fill="#fff"></path>
+      </svg>
+    </button>
+  </p>
+</nav>
+<nav>
+  <div class="modal fade" id="modalMenu" tabindex="-1" aria-labelledby="modalMenuLabel" aria-hidden="true" >
+    <div class="modal-dialog">
+      <div class="modal-content">
+    <div class="card card-body"*ngIf="number==0">
+      <a type="button" href="cuenta/sing-up" class="btn d-flex align-items-center mr-2">
+        <p>Iniciar sesión</p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-person-fill"
+          viewBox="0 0 16 16">
+          <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3Zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" />
+        </svg>
+      </a>
+    </div>
+    <div class="card card-body" *ngIf="number==1">
+      <table>
+        <td><a class="btn btn-outline-primary">Bienvenido {{cliente["nombre"]}}</a></td>
+        <td><a class="btn btn-success d-none d-lg-inline-block" href="cuenta/pago">Carrito</a></td>
+        <td><a class="btn btn-primary d-none d-lg-inline-block" href="cuenta/log-out">Cerrar Sesión</a></td>
+      </table>
+    </div>
+    <div class="card card-body" *ngIf="number==2">
+      <table>
+        <td><a class="btn btn-outline-primary">Bienvenido {{cliente["nombre"]}}</a></td>
+        <td><a class="btn btn-primary d-none d-lg-inline-block" href="cuenta/log-out">Cerrar Sesión</a></td>
+        <td><a class="btn btn-primary d-none d-lg-inline-block" href="add-product">Crear Producto</a></td>
+        <td><a class="btn btn-primary d-none d-lg-inline-block" href="category">Gestionar Categorias</a></td>
+      </table>
+    </div>
+</div>
+</div>
+</div>
+</nav>

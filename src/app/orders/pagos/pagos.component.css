@@ -1,0 +1,26 @@
+#product {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:x-large;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#product td, #product th {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 8px;
+}
+
+#product tr:nth-child(even){
+  background-color: rgb(190, 88, 216)
+}
+#product tr:nth-child(odd){
+  background-color: rgb(169, 3, 211)
+}
+
+#product th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #8904aa;
+}

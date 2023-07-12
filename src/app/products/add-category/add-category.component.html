@@ -1,0 +1,10 @@
+<h2 class="bg-light mb-2 text-center">Agregar nuevo producto</h2>
+<form  #form="ngForm" (ngSubmit)="AddNewCategory(form)"  >
+  <div class="row">
+    <div class="col-md-4 mb-3">
+      <label for="validationServer01">Nombre de la categoria</label>
+      <input type="text" class="form-control" id="validationServer01" placeholder="Nombre de la categoria" name="name" ngModel required >
+    </div>
+    <button class="btn btn-primary" type="submit" >Agregar Producto</button>
+  </div>
+</form>

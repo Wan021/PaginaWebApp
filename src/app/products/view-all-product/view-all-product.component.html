@@ -1,0 +1,32 @@
+<div class="row mb-4" *ngFor="let productsRow of productList | chunk: 4">
+  <div class="col" *ngFor="let products of productsRow">
+    <div class="d-flex justify-content-center">
+      <div class="card justify-content-center">
+        <a href="view-product/{{products.id}}"><img class="card-img-top" src="{{products.productImg}}"/></a>
+        <div class="card-body justify-content-center">
+          <strong>
+            <a href="view-product/{{products.id}}">{{ (products.ProductName.length > 27) ? (products.ProductName | slice:0:24)+ '...' : products.ProductName }}</a>
+          </strong><br>
+          <strong>Marca: {{(products.vendor_name.length > 25) ? (products.vendor_name | slice:0:25) + '...' : products.vendor_name }}</strong><br>
+          <strong>Disponible en {{products.distribuidor}}</strong><br>
+          <strong>Precio: {{products.price|currency:'MXN'}}</strong>
+        </div>
+        <div class="card-footer justify-content-center">
+          <table>
+            <tr>
+              <td >{{products.rating}} estrellas</td>
+              <span class="text-warning" >
+                <td *ngFor="let dummy of ' '.repeat(products.rating).split(''), let x = index">
+                  &#9733;
+                </td>
+              </span>
+              <td *ngFor="let dummy of ' '.repeat(5-products.rating).split(''), let x = index">
+                &#9733;
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

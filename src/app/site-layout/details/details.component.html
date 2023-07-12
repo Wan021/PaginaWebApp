@@ -1,0 +1,64 @@
+<div>
+  <hr size="8px" color="black" />
+</div>
+<div class="row principal" >
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <div class="container-fluid">
+          <div class=row>
+            <img src="https://uploads-ssl.webflow.com/61d84752ed5029135f51b483/628c4b2ade63bb0eddbc8924_Horizontal%20Blanco.svg" loading="lazy" alt="" class="image">
+            Copyright © 2022
+            Todos los derechos Reservados
+            <table>
+              <td>
+                <a href="https://www.facebook.com/GravitiMx" class="social-icon"><img src="https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01/0fdef751204647a3bbd7eaa2827ed4f9.webp" alt="Facebook" style="width:25px;height:25px;object-fit:cover;object-position:50% 50%"></a>
+              </td>
+              <td>
+                <a href="https://twitter.com/MxGraviti" class="social-icon"><img src="https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01/c7d035ba85f6486680c2facedecdcf4d.webp" alt="Twitter" style="width:25px;height:25px;object-fit:cover;object-position:50% 50%"></a>
+              </td>
+              <td>
+                <a href="https://mx.linkedin.com/company/gravitimexico" class="social-icon"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></svg></a>
+              </td>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="container-fluid">
+          <div class=row>
+            Tienda:
+          </div>
+          <ul>
+            <li><a id="a" href="/products">Todos los productos</a></li>
+            <li *ngFor="let i of list"><a id="a" href="/products/{{i.id}}">{{i.categoryName}}</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="container-fluid">
+          <div class=row>
+            Atención al cliente:
+          </div>
+          <ul>
+            <li><a id="a" href="/details/Contactanos">Contactanos</a></li>
+            <li><a id="a" href="/details/Ayuda">Centro de ayuda</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="container-fluid">
+          <div class=row>
+            Política:
+          </div>
+          <ul>
+            <li><a id="a" href="">Envíos y devoluciones</a></li>
+            <li><a id="a" href="">Términos y Condiciones</a></li>
+            <li><a id="a" href="">Métodos de pago</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br><br>
