@@ -1,3 +1,8 @@
+Para comenzar a utilizar este proyecto  es necesario borrar el archivo "node_modules"
+    1.-Instalar node v16.14.2 (se recomienda tener nvm para poder usar mas de una version de node sin problemas)
+    2.-Utilizar el comando "npm install"
+    3.-Utilizar en dos terminales diferentes "npm run start" y "npm run dev"
+
 # PaginaWebApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
