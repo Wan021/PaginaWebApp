@@ -1204,43 +1204,43 @@
   "categories": [
     {
       "id": 1,
-      "categoryName": "Pantallas",
-      "image": "fa-solid fa-tv"
+      "categoryName": "Camaras",
+      "image": "fa-solid fa-camera-retro"
     },
     {
       "id": 2,
-      "categoryName": "Lavadoras",
-      "image": "fa-solid fa-dryer"
+      "categoryName": "Computadoras",
+      "image": "fa-solid fa-laptop"
     },
     {
       "id": 3,
-      "categoryName": "Refrigeradores",
-      "image": "fas fa-refrigerator"
+      "categoryName": "Tablets",
+      "image": "fa-solid fa-tablet-android"
     },
     {
       "id": 4,
       "categoryName": "Drones",
-      "image": ""
+      "image": "fa-solid fa-airbnb"
     },
     {
       "id": 5,
       "categoryName": "Audio",
-      "image": ""
+      "image": "fa-solid fa-headphones"
     },
     {
       "id": 6,
       "categoryName": "Celulares",
-      "image": ""
+      "image": "fa-solid fa-phone"
     },
     {
       "id": 8,
       "categoryName": "Accesorios",
-      "image": ""
+      "image": "fa-solid fa-microchip"
     },
     {
       "id": 9,
       "categoryName": "TV",
-      "image": ""
+      "image": "fa-solid fa-tv"
     }
   ],
   "subcategory": [],
@@ -1281,8 +1281,8 @@
   "log": [
     {
       "id": 1,
-      "logeado": 1,
-      "cuenta": 1
+      "logeado": 0,
+      "cuenta": 0
     }
   ],
   "control": [
@@ -1326,7 +1326,7 @@
     {
       "id": 7,
       "cliente": 1,
-      "precioTotal": 3400,
+      "precioTotal": 5416,
       "terminado": 0
     }
   ],
@@ -1387,9 +1387,9 @@
     },
     {
       "id": 12,
-      "producto": 30,
+      "producto": 3,
       "compra": 7,
-      "cantidad": 2
+      "cantidad": 8
     }
   ],
   "comentarios": [
