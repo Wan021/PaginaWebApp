@@ -1276,20 +1276,28 @@
       "nombre": "Adrian Peres Torres",
       "role": 1,
       "numero": "5588888888"
+    },
+    {
+      "id": 5,
+      "correo": "nueva@correo",
+      "contraseña": "12345",
+      "nombre": "nombre",
+      "numero": "5511111117",
+      "role": 1
     }
   ],
   "log": [
     {
       "id": 1,
-      "logeado": 0,
-      "cuenta": 0
+      "logeado": 3,
+      "cuenta": 2
     }
   ],
   "control": [
     {
       "id": 1,
-      "control": 1,
-      "compra": 7
+      "control": 0,
+      "compra": 0
     }
   ],
   "compra": [
@@ -1324,10 +1332,10 @@
       "terminado": 1
     },
     {
-      "id": 7,
       "cliente": 1,
-      "precioTotal": 5416,
-      "terminado": 0
+      "id": 7,
+      "precioTotal": 7986,
+      "terminado": 1
     }
   ],
   "subcompra": [
@@ -1387,9 +1395,15 @@
     },
     {
       "id": 12,
-      "producto": 3,
+      "producto": 2,
       "compra": 7,
-      "cantidad": 8
+      "cantidad": 2
+    },
+    {
+      "id": 13,
+      "producto": 69,
+      "compra": 7,
+      "cantidad": 1
     }
   ],
   "comentarios": [

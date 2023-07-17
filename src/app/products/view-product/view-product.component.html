@@ -47,8 +47,7 @@
       </div>
     </div>
   </div>
-
-  <div class="col-sm-5" *ngIf="List[0]['cuenta']==1&&show">
+  <div class="col-sm-5" *ngIf="List.length > 0 && List[0]['cuenta'] == 1 && show">
     <app-carrito></app-carrito>
   </div>
   <div class="col-sm-5" *ngIf="List[0]['cuenta']!=1">

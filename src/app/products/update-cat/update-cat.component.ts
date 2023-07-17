@@ -26,16 +26,17 @@ export class UpdateCatComponent implements OnInit {
     })
   }
   UpdateCategory(form:any){
-    if(form.value.name==""){
-      alert("Rellene el dato")
+    if(form.value.name==""&&form.value.icon==""){
+      alert("Rellene los datos")
     }else{
       let j={
         id:this.list.id,
-        categoryName:form.value.name
+        categoryName:form.value.name,
+        image:form.value.icon
       }
       this.productService.updateCategory(this.productID,j).subscribe()
       alert("Actualizado Correctamente")
-      location.href="products/category"
+      location.href="/category"
     }
   }
 }

@@ -25,10 +25,11 @@ export class AddCategoryComponent implements OnInit {
         let nCategory={
           id:ultElemento+1,
           categoryName: form.value.name,
+          image:form.value.icon,
         };
         this.productService.createCategory(nCategory).subscribe();
         alert("Producto agregado correctamente")
-        location.href="products/category"
+        location.href="/category"
       });
     }
   }

@@ -8,9 +8,9 @@ import { Client } from 'src/app/orders/client';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  number:number|any;
+  number:number| any = {};
   parameter=new Array();
-  cliente:Client|any;
+  cliente:Client| any = {};
   constructor(private clientService:OrdersService) { }
 
   ngOnInit(): void {

@@ -15,7 +15,7 @@ export class ViewProductComponent implements OnInit {
   show:boolean = true
   productID:Product|any;
   productData:Product|any;
-  List=new Array();
+  List: any[] = [""];
   compras:any
   compra:any
   idNewCompra=0
