@@ -1289,15 +1289,15 @@
   "log": [
     {
       "id": 1,
-      "logeado": 3,
-      "cuenta": 2
+      "logeado": 0,
+      "cuenta": 0
     }
   ],
   "control": [
     {
       "id": 1,
-      "control": 0,
-      "compra": 0
+      "control": 1,
+      "compra": 8
     }
   ],
   "compra": [
@@ -1335,6 +1335,12 @@
       "cliente": 1,
       "id": 7,
       "precioTotal": 7986,
+      "terminado": 1
+    },
+    {
+      "cliente": 1,
+      "id": 8,
+      "precioTotal": 9786,
       "terminado": 1
     }
   ],
@@ -1404,6 +1410,18 @@
       "producto": 69,
       "compra": 7,
       "cantidad": 1
+    },
+    {
+      "id": 14,
+      "producto": 2,
+      "compra": 8,
+      "cantidad": 2
+    },
+    {
+      "id": 15,
+      "producto": 91,
+      "compra": 8,
+      "cantidad": 3
     }
   ],
   "comentarios": [
